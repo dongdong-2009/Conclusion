@@ -1,0 +1,1 @@
+1.This folder is all the code about data structure based on embeded system. Including linklist sequenlist queue and so on. 
