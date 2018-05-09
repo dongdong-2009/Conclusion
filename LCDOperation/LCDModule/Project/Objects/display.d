@@ -1,0 +1,36 @@
+.\objects\display.o: ..\HardWare\display.c
+.\objects\display.o: ..\HardWare\display.h
+.\objects\display.o: ..\HardWare\LCD.h
+.\objects\display.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\objects\display.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\display.o: ..\CM3\CoreSupport\core_cm3.h
+.\objects\display.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\display.o: ..\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\display.o: ..\Config\stm32f10x_conf.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_adc.h
+.\objects\display.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_bkp.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_can.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_cec.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_crc.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_dac.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_exti.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_flash.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_iwdg.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_pwr.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_rtc.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_sdio.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\display.o: ..\Libraries\inc\stm32f10x_wwdg.h
+.\objects\display.o: ..\Libraries\inc\misc.h
+.\objects\display.o: ..\Config\sys.h
+.\objects\display.o: ..\Config\delay.h

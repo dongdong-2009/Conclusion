@@ -1,0 +1,17 @@
+--cpu Cortex-M3
+".\objects\core_cm3.o"
+".\objects\system_stm32f10x.o"
+".\objects\misc.o"
+".\objects\stm32f10x_fsmc.o"
+".\objects\stm32f10x_gpio.o"
+".\objects\stm32f10x_iwdg.o"
+".\objects\stm32f10x_rcc.o"
+".\objects\lcd.o"
+".\objects\display.o"
+".\objects\startup_stm32f10x_hd.o"
+".\objects\sys.o"
+".\objects\main.o"
+--strict --scatter ".\Objects\LCDModule.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LCDModule.map" -o .\Objects\LCDModule.axf
