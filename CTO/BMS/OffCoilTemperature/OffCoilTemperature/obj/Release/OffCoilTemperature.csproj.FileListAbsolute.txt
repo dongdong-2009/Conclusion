@@ -1,0 +1,12 @@
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\bin\Release\OffCoilTemperature.exe.config
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\bin\Release\OffCoilTemperature.exe
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\bin\Release\OffCoilTemperature.pdb
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\bin\Release\NModbus4.dll
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\bin\Release\NModbus4.xml
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.Form1.resources
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.Properties.Resources.resources
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.csproj.GenerateResource.Cache
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.exe
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.pdb
+C:\Users\Leyuan\source\repos\OffCoilTemperature\OffCoilTemperature\obj\Release\OffCoilTemperature.csprojResolveAssemblyReference.cache
