@@ -1,0 +1,3 @@
+1.SystemTestBms:测试自定义Modbus通信协议，读写寄存器分开
+2.SystemModbusNew:测试自定义modbus通信协议，读写对同一个寄存器操作
+3.SystemLCDModbus:运用modbus通信V1版本，和小板之间进行正常通信；

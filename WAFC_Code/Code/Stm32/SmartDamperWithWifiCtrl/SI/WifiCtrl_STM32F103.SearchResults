@@ -1,0 +1,8 @@
+---- Esp8266_IpdPro Matches (7 in 3 files) ----
+Esp8266.c (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\midlayer):void Esp8266_IpdPro(uint8_t readbyte)
+Esp8266.c (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\midlayer):uint32_t Esp8266_IpdProState(void)
+Esp8266.c (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\midlayer):					Esp8266_IpdPro(data);
+Esp8266.h (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\midlayer):void Esp8266_IpdPro(uint8_t readbyte);
+Esp8266.h (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\midlayer):uint32_t Esp8266_IpdProState(void);
+Uart_wifi.c (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\applayer\wificomm):			Esp8266_IpdPro(readbyte);
+Uart_wifi.c (d:\projects\keil\arm\rev4xx\st\stm32f103\wifictrl\wifictrl\src\applayer\wificomm):	return (Esp8266_IpdProState());
