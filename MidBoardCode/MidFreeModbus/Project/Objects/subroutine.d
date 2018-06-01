@@ -1,0 +1,47 @@
+.\objects\subroutine.o: ..\Protocol\subroutine.c
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\subroutine.o: ..\CM3\CoreSupport\core_cm3.h
+.\objects\subroutine.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_conf.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_adc.h
+.\objects\subroutine.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_bkp.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_can.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_cec.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_crc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dac.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_exti.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_flash.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_iwdg.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_pwr.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_rtc.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_sdio.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\subroutine.o: ..\Libraries\inc\stm32f10x_wwdg.h
+.\objects\subroutine.o: ..\Libraries\inc\misc.h
+.\objects\subroutine.o: ..\Protocol\runtimedata.h
+.\objects\subroutine.o: ..\Protocol\protocol.h
+.\objects\subroutine.o: ..\Pid\pid.h
+.\objects\subroutine.o: ..\Protocol\touchscreen.h
+.\objects\subroutine.o: ..\Config\Globle.h
+.\objects\subroutine.o: ..\User\stm32f10x_it.h
+.\objects\subroutine.o: ..\Config\delay.h
+.\objects\subroutine.o: ..\Hardware\DAC8554.h
+.\objects\subroutine.o: ..\Hardware\MuxCfg.h
+.\objects\subroutine.o: ..\Hardware\Dio.h
+.\objects\subroutine.o: ..\Hardware\Pwm.h
+.\objects\subroutine.o: ..\Hardware\W25Q16.h
+.\objects\subroutine.o: ..\Config\globle.h
+.\objects\subroutine.o: ..\Config\usart.h
+.\objects\subroutine.o: ..\Config\timer.h
