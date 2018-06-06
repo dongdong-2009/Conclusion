@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE4EC203-9B1C-4C38-A7D3-C97791C931EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PortOperationWin</RootNamespace>
+    <AssemblyName>PortOperationWin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="NModbus4">
+      <HintPath>bin\NModbus4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Boardstatus.cs" />
+    <Compile Include="ClockTick.cs" />
+    <Compile Include="Driver.cs" />
+    <Compile Include="ModbusCommonClass.cs" />
+    <Compile Include="ModbusMasterExClass.cs" />
+    <Compile Include="ModbusWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModbusWin.Designer.cs">
+      <DependentUpon>ModbusWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indicator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="indicator.Designer.cs">
+      <DependentUpon>indicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModubsManageClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sendbutton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="sendbutton.Designer.cs">
+      <DependentUpon>sendbutton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sendindicator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sendindicator.Designer.cs">
+      <DependentUpon>Sendindicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="statusWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="statusWin.Designer.cs">
+      <DependentUpon>statusWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vo_Am.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vo_Am.Designer.cs">
+      <DependentUpon>Vo_Am.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vo_AmV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vo_AmV.Designer.cs">
+      <DependentUpon>Vo_AmV.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="indicator.resx">
+      <DependentUpon>indicator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.sq-AL.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModbusWin.resx">
+      <DependentUpon>ModbusWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sendbutton.resx">
+      <DependentUpon>sendbutton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sendindicator.resx">
+      <DependentUpon>Sendindicator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="statusWin.resx">
+      <DependentUpon>statusWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vo_Am.resx">
+      <DependentUpon>Vo_Am.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_glossy_bluetrans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_glossy_yellowtras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selectora1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selectora2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selectorb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selector-switchb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

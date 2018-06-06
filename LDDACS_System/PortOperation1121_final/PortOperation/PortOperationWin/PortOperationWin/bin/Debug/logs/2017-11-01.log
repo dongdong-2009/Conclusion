@@ -1,0 +1,176 @@
+[Warn] 2017-11-01 14:42:32.2670 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AIdataF' is NOT valid!
+[Error] 2017-11-01 14:42:32.3288 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 14:42:33.8713 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:45:51.2108 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:46:04.2155 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:46:18.5864 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:46:28.6139 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:46:36.5887 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:46:46.5951 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:47:44.3426 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:48:51.2888 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:49:01.3185 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:54:16.3860 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:54:26.3934 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 14:54:29.7747 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 14:54:39.7886 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-11-01 15:03:11.5692 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AIdataF' is NOT valid!
+[Error] 2017-11-01 15:03:23.0307 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:04:10.6736 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AIdataF' is NOT valid!
+[Error] 2017-11-01 15:04:10.7357 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:04:49.1531 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AIdataF' is NOT valid!
+[Error] 2017-11-01 15:04:49.2174 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:06:03.7093 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Warn] 2017-11-01 15:11:35.8113 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AIdataF' is NOT valid!
+[Error] 2017-11-01 15:11:35.8738 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:12:04.2946 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Error] 2017-11-01 15:19:18.9512 ModbusDAQ.ModbusMasterExClass.Initmaster >> System.InvalidCastException: Unable to cast object of type 'System.String[]' to type 'System.IConvertible'.
+   at System.Convert.ToByte(Object value)
+   at ModbusDAQ.ModbusMasterExClass.Initmaster(Int32 cnti) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 362
+[Error] 2017-11-01 15:19:19.0767 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Error] 2017-11-01 15:29:47.5011 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:30:23.0916 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Error] 2017-11-01 15:33:41.6208 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Warn] 2017-11-01 15:33:42.8488 ModbusDAQ.ModubsManageClass.ExecuteCommon >> [ModubsManageClass.ExecuteCommon] else!
+[Error] 2017-11-01 15:37:48.5168 ModbusDAQ.ModbusMasterExClass.Initmaster >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at ModbusDAQ.ModbusMasterExClass.Initmaster(Int32 cnti)
+[Error] 2017-11-01 15:37:50.8069 ModbusDAQ.ModubsManageClass.Init >> Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+[Error] 2017-11-01 15:37:53.1470 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:38:14.5421 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:41:12.5606 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:41:25.6035 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:45:57.0553 ModbusDAQ.ModbusMasterExClass.Initmaster >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at ModbusDAQ.ModbusMasterExClass.Initmaster(Int32 cnti) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 369
+[Error] 2017-11-01 15:52:00.9029 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:52:02.0120 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:52:03.1059 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:52:04.2020 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:52:05.2931 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:52:06.3892 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:52:07.4850 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:52:08.5962 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:52:09.6979 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:52:09.8033 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:52:09.8994 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:54:48.2103 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:54:49.3198 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:54:50.4447 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:54:51.5705 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:54:52.7075 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:54:52.7544 ModbusDAQ.ModbusMasterExClass.Execute >> System.UnauthorizedAccessException: Access to the port 'COM3' is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.ModbusMasterExClass.Execute() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 486
+[Error] 2017-11-01 15:54:52.7849 ModbusDAQ.ModbusMasterExClass.Execute >> System.UnauthorizedAccessException: Access to the port 'COM3' is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.ModbusMasterExClass.Execute() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 486
+[Error] 2017-11-01 15:54:53.8389 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:54:54.9794 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:54:55.1008 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:54:55.2254 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:55:24.8325 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:55:25.9574 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:55:27.0825 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:55:28.2238 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:55:29.3494 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:55:30.4750 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:55:31.6001 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:55:32.7095 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:55:33.8500 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:55:33.9599 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:55:34.1006 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:56:33.7219 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:56:34.8470 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:56:35.9720 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:56:37.0822 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:56:38.2313 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:56:39.3515 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:56:40.4611 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:56:41.5706 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:56:42.6955 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:56:42.8364 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:56:42.9456 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 15:58:50.3969 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:58:51.5221 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:58:52.6480 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:58:53.7570 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:58:54.8669 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:58:56.0072 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:58:57.1180 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:58:58.2275 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 15:58:59.3523 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 15:58:59.4774 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon()
+[Error] 2017-11-01 15:58:59.5871 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon()
+[Error] 2017-11-01 16:01:27.9020 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:01:29.0448 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:01:30.2007 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:01:31.3109 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:01:32.4210 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:01:33.5304 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:01:34.7024 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:01:35.8120 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:01:36.9223 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:01:37.0312 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 16:01:37.1566 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 16:13:40.2623 ModbusDAQ.ModubsManageClass.GetData >> System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 291
+[Error] 2017-11-01 16:13:55.1195 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AIdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:13:56.2385 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOdataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:13:57.3183 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AImodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:13:58.4146 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'AOmodeI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:13:59.5075 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DIdataI' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:14:00.5904 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'DOdataI' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:14:01.6863 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'RTDdataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:14:02.7847 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM1dataF' ReadHoldingRegisters timeout!
+[Error] 2017-11-01 16:14:03.8655 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> The station 'PWM2dataF' ReadInputRegisters timeout!
+[Error] 2017-11-01 16:14:03.9625 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680
+[Error] 2017-11-01 16:14:04.0674 ModbusDAQ.ModbusMasterExClass.ExecuteCommon >> System.ArgumentException: Argument numberOfPoints must be between 1 and 125 inclusive.
+   at Modbus.Device.ModbusMaster.ValidateNumberOfPoints(String argumentName, UInt16 numberOfPoints, UInt16 maxNumberOfPoints)
+   at Modbus.Device.ModbusMaster.ReadInputRegistersAsync(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.ModbusMasterExClass.ExecuteCommon() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModbusMasterExClass.cs:line 680

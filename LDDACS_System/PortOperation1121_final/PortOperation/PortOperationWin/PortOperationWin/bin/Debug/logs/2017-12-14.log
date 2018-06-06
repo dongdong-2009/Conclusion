@@ -1,0 +1,66 @@
+[Error] 2017-12-14 15:36:08.5013 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:09.0553 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:09.5623 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:10.0694 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:10.5774 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:11.0854 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:11.5925 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:12.1005 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:12.6085 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:13.1176 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:13.6256 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:14.1336 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:14.6426 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:15.1507 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:15.6587 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:16.1657 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:16.6738 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:17.1818 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:36:17.6898 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:39:41.8335 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 84
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 455
+[Error] 2017-12-14 15:41:08.8995 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF)
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist)
+[Error] 2017-12-14 15:45:00.0467 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.NotImplementedException: The method or operation is not implemented.
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterWriteRegisters(SerialPort port, UInt16 startAddress, Byte slaveId, String[] aOdataF)
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite(MainForm mf, List`1 nameposlist)

@@ -1,0 +1,1 @@
+globle.o: ..\Globle.c

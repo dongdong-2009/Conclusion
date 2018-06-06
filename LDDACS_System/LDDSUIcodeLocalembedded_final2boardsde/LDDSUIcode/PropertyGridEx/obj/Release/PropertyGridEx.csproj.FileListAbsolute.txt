@@ -1,0 +1,5 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\PropertyGridEx\bin\Release\PropertyGridEx.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\PropertyGridEx\bin\Release\PropertyGridEx.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\PropertyGridEx\obj\Release\PropertyGridEx.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\PropertyGridEx\obj\Release\PropertyGridEx.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\PropertyGridEx\obj\Release\PropertyGridEx.pdb

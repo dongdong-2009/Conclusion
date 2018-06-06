@@ -1,0 +1,3 @@
+[Error] 2017-10-27 14:28:47.2746 ModbusDAQ.ModubsManageClass.Init >> Object reference not set to an instance of an object.
+[Error] 2017-10-27 14:28:49.5707 ModbusDAQ.ModubsManageClass.ExecuteCommon >> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ModbusDAQ.ModubsManageClass.ExecuteCommon(StationCollection stationCollection) in D:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 170

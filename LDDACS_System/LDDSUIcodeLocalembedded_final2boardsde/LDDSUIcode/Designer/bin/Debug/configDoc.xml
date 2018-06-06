@@ -1,0 +1,10 @@
+<controlBoards>
+  <controlBoard name="DeCoilCw" boardNumber="00000000" targetType="dehumidifer" />
+  <controlBoard name="DeNoCoilCw" boardNumber="00010000" targetType="dehumidifer" />
+  <controlBoard name="DeCoilHp" boardNumber="00020000" targetType="dehumidifer" />
+  <controlBoard name="DeNoCoilHp" boardNumber="00030000" targetType="dehumidifer" />
+  <controlBoard name="ReAdjHw" boardNumber="00040000" targetType="regenerator" />
+  <controlBoard name="ReNoAdjHw" boardNumber="00050000" targetType="regenerator" />
+  <controlBoard name="ReAdjHp" boardNumber="00060000" targetType="regenerator" />
+  <controlBoard name="ReNoAdjHp" boardNumber="00070000" targetType="regenerator" />
+</controlBoards>

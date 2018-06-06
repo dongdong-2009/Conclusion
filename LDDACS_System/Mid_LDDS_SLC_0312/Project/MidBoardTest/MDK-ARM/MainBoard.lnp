@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "stm32f10x_it.o" "main.o" "delay.o" "myiic.o" "dac8554.o" "globle.o" "dio.o" "pwm.o" "muxcfg.o" "io_spi.o" "w25q16.o" "ad.o" "stm3210_config.o" "protocol.o" "runtimedata.o" "levelmange.o" "stm32f10x_rcc.o" "stm32f10x_gpio.o" "misc.o" "stm32f10x_exti.o" "stm32f10x_spi.o" "stm32f10x_fsmc.o" "stm32f10x_usart.o" "stm32f10x_sdio.o" "stm32f10x_dma.o" "stm32f10x_i2c.o" "stm32f10x_tim.o" "stm32f10x_adc.o" "core_cm3.o" "system_stm32f10x.o" "stm32_eval.o" "stm3210e_eval_lcd.o" ".\startup_stm32f10x_hd.o" --library_type=microlib --strict --scatter "MainBoard.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\MainBoard.map" -o "MainBoard.axf"

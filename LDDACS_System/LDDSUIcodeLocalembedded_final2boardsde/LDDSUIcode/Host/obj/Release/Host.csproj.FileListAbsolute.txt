@@ -1,0 +1,6 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\bin\Release\Host.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\bin\Release\Loader.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\obj\Release\Host.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\obj\Release\Host.HostControl.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\obj\Release\Host.csproj.GenerateResource.Cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Host\obj\Release\Host.dll

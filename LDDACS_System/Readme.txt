@@ -1,0 +1,5 @@
+1.LDDS_DE_ver3board_newprotocol：新大板DE代码，采用新的通信协议；
+2.LDDSUIcodeLocalembedded_final2boardsde：C#做的UI监控画面
+3.Mid_LDDS_SAC_0322：中板SAC代码
+4.Mid_LDDS_SLC_0312：中板SLC代码
+5.PortOperation1121_final：大板通用操作画面Modbus通信协议

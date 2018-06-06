@@ -1,0 +1,189 @@
+[Warn] 2017-12-06 09:39:59.6134 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 09:41:41.2752 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 09:45:13.4483 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 16:16:54.6045 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-12-06 16:51:39.7138 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Error] 2017-12-06 16:51:43.3920 ModbusDAQ.ModubsManageClass.GetData >> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne()
+   at System.IO.Ports.SerialStream.EndRead(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at Modbus.IO.SerialPortAdapter.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at Modbus.IO.ModbusRtuTransport.Read(Int32 count)
+   at Modbus.IO.ModbusRtuTransport.ReadResponse[T]()
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:51:43.4150 ModbusDAQ.ModubsManageClass.ExecuteCommon >> System.Threading.ThreadAbortException: Thread was being aborted.
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 274
+   at ModbusDAQ.ModubsManageClass.ExecuteCommon(StationCollection stationCollection) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 174
+[Error] 2017-12-06 16:51:43.4200 ModbusDAQ.ModubsManageClass.ExecuteRead >> System.Threading.ThreadAbortException: Thread was being aborted.
+   at ModbusDAQ.ModubsManageClass.ExecuteCommon(StationCollection stationCollection) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 187
+   at ModbusDAQ.ModubsManageClass.ExecuteRead() in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 298
+[Warn] 2017-12-06 16:51:45.1091 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 16:51:45.1181 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-12-06 16:51:53.0086 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 16:51:53.0156 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-12-06 16:52:50.8919 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Error] 2017-12-06 16:52:59.9804 ModbusDAQ.ModubsManageClass.GetData >> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne()
+   at System.IO.Ports.SerialStream.EndRead(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at Modbus.IO.SerialPortAdapter.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at Modbus.IO.ModbusRtuTransport.Read(Int32 count)
+   at Modbus.IO.ModbusRtuTransport.ReadResponse[T]()
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Warn] 2017-12-06 16:53:46.3240 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Error] 2017-12-06 16:54:01.8069 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:54:01.8229 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 227
+[Error] 2017-12-06 16:54:01.8229 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 237
+[Warn] 2017-12-06 16:54:03.5040 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Warn] 2017-12-06 16:54:03.5100 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Warn] 2017-12-06 16:55:25.5277 ModbusDAQ.ModbusMasterExClass.Initmaster >> The function code 'UnKnown' of station 'AImodeI' is NOT valid!
+[Error] 2017-12-06 16:55:32.2331 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:55:32.2491 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 227
+[Error] 2017-12-06 16:55:32.2561 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 237
+[Error] 2017-12-06 16:55:42.3337 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:55:42.3337 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 227
+[Error] 2017-12-06 16:55:42.3527 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 237
+[Error] 2017-12-06 16:55:52.3673 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:55:52.3673 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 227
+[Error] 2017-12-06 16:55:52.3973 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 237
+[Error] 2017-12-06 16:56:02.4068 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 216
+[Error] 2017-12-06 16:56:02.4108 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 227
+[Error] 2017-12-06 16:56:02.4108 ModbusDAQ.ModubsManageClass.GetData >> System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at Modbus.IO.SerialPortAdapter.DiscardInBuffer()
+   at Modbus.IO.ModbusSerialTransport.Write(IModbusMessage message)
+   at Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   at Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   at Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   at ModbusDAQ.Driver.ModbusSerialRtuMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 46
+   at ModbusDAQ.ModubsManageClass.GetData(ModbusMasterExClass statlist) in D:\portoperation\PortOperation1121\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 237

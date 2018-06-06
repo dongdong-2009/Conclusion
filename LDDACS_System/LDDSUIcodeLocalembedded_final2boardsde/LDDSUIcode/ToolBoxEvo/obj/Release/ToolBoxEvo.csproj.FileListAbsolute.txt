@@ -1,0 +1,6 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\bin\Release\ToolBoxEvo.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\obj\Release\ToolBoxEvo.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\obj\Release\Silver.UI.Properties.Resources.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\obj\Release\Silver.UI.ToolBox.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\obj\Release\ToolBoxEvo.csproj.GenerateResource.Cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\ToolBoxEvo\obj\Release\ToolBoxEvo.dll

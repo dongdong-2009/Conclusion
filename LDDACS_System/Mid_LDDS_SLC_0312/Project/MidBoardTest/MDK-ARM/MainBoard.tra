@@ -1,0 +1,51 @@
+*** Creating Trace Output File 'MainBoard.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"stm32f10x_it.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"delay.o"'
+### List of Objects: adding '"myiic.o"'
+### List of Objects: adding '"dac8554.o"'
+### List of Objects: adding '"globle.o"'
+### List of Objects: adding '"dio.o"'
+### List of Objects: adding '"pwm.o"'
+### List of Objects: adding '"muxcfg.o"'
+### List of Objects: adding '"io_spi.o"'
+### List of Objects: adding '"w25q16.o"'
+### List of Objects: adding '"ad.o"'
+### List of Objects: adding '"stm3210_config.o"'
+### List of Objects: adding '"protocol.o"'
+### List of Objects: adding '"runtimedata.o"'
+### List of Objects: adding '"levelmange.o"'
+### List of Objects: adding '"stm32f10x_rcc.o"'
+### List of Objects: adding '"stm32f10x_gpio.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f10x_exti.o"'
+### List of Objects: adding '"stm32f10x_spi.o"'
+### List of Objects: adding '"stm32f10x_fsmc.o"'
+### List of Objects: adding '"stm32f10x_usart.o"'
+### List of Objects: adding '"stm32f10x_sdio.o"'
+### List of Objects: adding '"stm32f10x_dma.o"'
+### List of Objects: adding '"stm32f10x_i2c.o"'
+### List of Objects: adding '"stm32f10x_tim.o"'
+### List of Objects: adding '"stm32f10x_adc.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"stm32_eval.o"'
+### List of Objects: adding '"stm3210e_eval_lcd.o"'
+### List of Objects: adding '".\startup_stm32f10x_hd.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "stm32f10x_it.o" "main.o" "delay.o" "myiic.o" "dac8554.o" "globle.o" "dio.o" "pwm.o" "muxcfg.o" "io_spi.o" "w25q16.o" "ad.o" "stm3210_config.o" "protocol.o" "runtimedata.o" "levelmange.o" "stm32f10x_rcc.o" "stm32f10x_gpio.o" "misc.o" "stm32f10x_exti.o" "stm32f10x_spi.o" "stm32f10x_fsmc.o" "stm32f10x_usart.o" "stm32f10x_sdio.o" "stm32f10x_dma.o" "stm32f10x_i2c.o" "stm32f10x_tim.o" "stm32f10x_adc.o" "core_cm3.o" "system_stm32f10x.o" "stm32_eval.o" "stm3210e_eval_lcd.o" ".\startup_stm32f10x_hd.o" --library_type=microlib --strict --scatter "MainBoard.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\MainBoard.map" -o "MainBoard.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'MainBoard.axf'
+### ADS-LD Command File: 'MainBoard.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'MainBoard.lnp', Handle=0x0000035C
+### Writing '.lnp' file
+### ADS-LD Command file 'MainBoard.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

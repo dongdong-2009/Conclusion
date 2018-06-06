@@ -1,0 +1,695 @@
+[Error] 2017-11-13 18:36:31.7947 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:31.8104 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.8416 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9197 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9197 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9354 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9510 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9666 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:31.9666 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9823 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:31.9979 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:32.0135 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:32.0135 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:32.0917 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.2167 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.3417 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.4667 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.5917 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.7167 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.8574 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:32.9981 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.1231 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.2637 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.4044 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.5607 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.7169 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.8576 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:33.9982 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.1545 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.2951 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.4514 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.5921 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.7483 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:34.9046 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.0609 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.2171 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.3578 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.5140 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.6547 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.8109 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:35.9515 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.0922 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.2484 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.3891 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.5298 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.6704 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.8110 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:36.9673 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.1079 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.2486 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.3892 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.5455 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.7017 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.8424 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:37.9987 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.1393 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.2799 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.4206 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.5612 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.7175 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:38.8581 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.0144 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.1550 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.3113 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.4519 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.5926 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.7332 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:39.8895 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.0458 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.1864 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.3427 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.4833 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.6239 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.7802 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:40.9365 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.0771 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.2177 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.3584 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.4990 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.6553 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.8116 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:41.9678 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.0459 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.0772 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.0929 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1085 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.1241 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1553 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1553 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1710 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1866 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.1866 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.2022 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.2022 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:42.2491 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.3741 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.4991 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.6242 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.7492 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.8742 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:42.9992 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.1398 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.2648 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.4055 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.5461 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.6868 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.8274 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:43.9837 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.1243 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.2806 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.4212 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.5619 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.7025 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.8432 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:44.9838 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.1244 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.2650 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:45.2963 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:45.2963 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.4213 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.4994 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.5619 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.6401 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.7182 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.7964 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.8642 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:45.9399 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.0180 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.0962 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.1587 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.2524 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.3149 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.3931 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.4556 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.5337 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.5962 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.6743 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.7368 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.8306 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.8931 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:46.9869 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.0338 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:47.0650 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:47.0963 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.1431 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.2056 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.2994 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.3306 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.3619 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.4557 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.4869 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.5338 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.5963 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.6432 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.6901 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.7526 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.7994 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.8307 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.9088 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:47.9558 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.0026 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.0495 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:48.0651 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:48.1276 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.0964 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.1589 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.2370 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.2995 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.3308 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.3620 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.4089 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.4558 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.4870 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:48.5496 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:48.5496 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.5808 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.5964 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.6433 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.6902 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.7996 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.8464 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.8777 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.9246 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:48.9714 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.0496 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.0183 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.0965 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.1277 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.1746 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.2215 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.2684 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.2996 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.3465 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.3934 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.4402 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.4715 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.5184 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.5496 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.6121 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.6434 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.6903 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.7215 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.7684 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.8309 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.8622 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.9559 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:49.9091 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.0809 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:49.9872 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:50.0809 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.1278 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.0497 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.2060 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.2997 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.3310 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:50.2060 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:50.2685 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.5185 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.5341 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.7373 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.6748 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.7529 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.5654 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.9412 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.9880 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.9099 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:50.4247 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:51.0818 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.0974 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.1287 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:50.4873 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.2068 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.2849 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.2381 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.4256 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.3318 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.5350 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.5662 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.7225 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.7850 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.6912 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.8788 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.7381 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.9619 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.9957 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.9256 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.0425 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.0894 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.1677 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.1990 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.2303 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:52.2615 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.3084 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.3396 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.1207 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.8319 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.3709 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:52.4490 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.4178 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.5272 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:51.6131 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.5740 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:52.6053 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.6053 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.7147 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.7459 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:52.6522 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.7772 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.7928 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.8553 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:52.8866 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.6678 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.9178 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.9491 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.8241 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.9647 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:53.0272 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.0428 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.1053 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:52.9960 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.1522 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220
+[Error] 2017-11-13 18:36:53.2147 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.1679 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.1366 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.2929 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.2304 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:50.6279 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:50.7060 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Warn] 2017-11-13 18:36:50.8310 ModbusDAQ.ModubsManageClass.ExecuteRead >> [ExecuteRead] The last reading has not finished!
+[Error] 2017-11-13 18:36:50.8779 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.3554 ModbusDAQ.ModubsManageClass.ExecuteWrite >> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ModbusDAQ.ModubsManageClass.ExecuteWrite() in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 378
+[Error] 2017-11-13 18:36:53.3085 ModbusDAQ.ModubsManageClass.GetData >> System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ModbusDAQ.Driver.ModbusSerialAsciiMasterReadRegisters(SerialPort port, UInt16 startAddress, UInt16 numRegisters, Byte slaveId, UInt16[] registers) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\Driver.cs:line 42
+   at ModbusDAQ.ModubsManageClass.GetData(List`1 stationList) in E:\portoperation\PortOperation\PortOperationWin\PortOperationWin\ModubsManageClass.cs:line 220

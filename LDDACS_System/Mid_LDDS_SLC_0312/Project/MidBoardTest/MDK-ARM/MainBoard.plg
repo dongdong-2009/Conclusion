@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\LDDSARMCODE\Mid_LDDS_SLC_0312\Project\MidBoardTest\MDK-ARM\Project.uvproj
+Project File Date:  03/12/2018
+
+<h2>Output:</h2>
+Build target 'MainBoardForRTD'
+compiling main.c...
+compiling runtimedata.c...
+compiling LevelMange.c...
+linking...
+Program Size: Code=7716 RO-data=336 RW-data=152 ZI-data=1424  
+FromELF: creating hex file...
+"MainBoard.axf" - 0 Error(s), 0 Warning(s).
