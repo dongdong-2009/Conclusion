@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\output\startup_stm32f10x_hd_revised.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_tim.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_wwdg.o" "..\output\misc.o" "..\output\main.o" "..\output\subroutine.o" "..\output\protocol.o" "..\output\stm32f10x_it.o" "..\output\adc.o" "..\output\dac.o" "..\output\digital_io.o" "..\output\pid.o" "..\output\rtd.o" "..\output\systick_timer.o" "..\output\timer.o" "..\output\usart.o" "..\output\runtimedata.o" "..\output\lookuptable.o" "..\output\diyfunc.o" "..\output\lddssp.o" --library_type=microlib --strict --scatter "..\Output\Template.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Listing\Template.map" -o "..\Output\Template.axf"

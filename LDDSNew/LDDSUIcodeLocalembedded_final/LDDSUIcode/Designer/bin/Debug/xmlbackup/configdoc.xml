@@ -1,0 +1,18 @@
+<controlBoards>
+  
+  <controlBoard name="DeCoilCw"   boardNumber="00000000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeNoCoilCw" boardNumber="00010000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeNoCoilCw" boardNumber="00020000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeCoilHp"   boardNumber="00030000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeCoilHp"   boardNumber="00040000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeCoilHp"   boardNumber="00050000" targeType="dehumidifier" >  </controlBoard>
+  <controlBoard name="DeNoCoilHp" boardNumber="00060000" targeType="dehumidifier" >  </controlBoard>
+  
+  <controlBoard name="ReAdjHw"    boardNumber="00070000" targeType="regenerator" >  </controlBoard>
+  <controlBoard name="ReNoAdjHw"  boardNumber="00080000" targeType="regenerator" >  </controlBoard>
+  <controlBoard name="ReAdjHp"    boardNumber="00090000" targeType="regenerator" >  </controlBoard>
+  <controlBoard name="ReNoAdjHp"  boardNumber="00100000" targeType="regenerator" >  </controlBoard>
+
+</controlBoards>
+   
+ 

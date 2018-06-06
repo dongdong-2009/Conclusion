@@ -1,0 +1,647 @@
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Designer.exe.config
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.EditWin.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.ImageForm.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.MainForm.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Designer.exe
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Designer.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\DataBus.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Host.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Library.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Loader.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\MySql.Data.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\PropertyGridEx.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Toolbox.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\ToolBoxEvo.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\DataBus.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Host.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Library.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Loader.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\PropertyGridEx.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\ToolBoxEvo.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\Toolbox.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.exe
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\obj\x86\Debug\Designer.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\DrawTool\Components.xml
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\Designer\Designer\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\Designer\Designer\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\app.config
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.exe
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Host.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Library.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Loader.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Host.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Library.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SolutionWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.ImageForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.PMWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Host.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Library.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Host.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Library.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\app.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DrawTool\Components.xml
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.exe.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.exe
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Designer.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DataBus.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Host.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Library.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Loader.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\MySql.Data.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Toolbox.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PetaPocoEx.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DataBus.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\DataBus.dll.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Host.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Library.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Library.dll.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Loader.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\PropertyGridEx.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\ToolBoxEvo.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\Toolbox.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\LoopConfigurer.dll.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.csprojResolveAssemblyReference.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DAQ.DAQ.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.GridWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DBTool.TreeBoxWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.Bind.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.DBConnect.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.EditWin.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.DrawTool.SetupForm.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.FormNewProject.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.MainForm.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ModuleBoxWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Options.DataBase_Configure.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ProjectManager.ProjectManagerWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Properties.Resources.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.PropertyWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeForm.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeFormMng.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.ToolBoxWindow.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.RunTimeMainForm.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.RunTime.TreeExplorer.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.Splash.Splash.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.GenerateResource.Cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.csproj.CoreCompileInputs.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.exe
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\Designer\obj\x86\Debug\Designer.pdb

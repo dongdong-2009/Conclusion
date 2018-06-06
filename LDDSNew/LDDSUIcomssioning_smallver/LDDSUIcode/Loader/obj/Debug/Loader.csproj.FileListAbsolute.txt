@@ -1,0 +1,54 @@
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Loader\bin\Debug\Loader.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Loader\bin\Debug\Loader.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Loader\obj\Debug\Loader.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Loader\obj\Debug\Loader.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\bin\Debug\Loader.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\Loader\obj\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\Loader\bin\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\Loader\bin\Debug\Loader.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\Loader\obj\Debug\Loader.dll
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\Loader\obj\Debug\Loader.pdb

@@ -1,0 +1,195 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\Project_STM32\Project\NEW_AHU.uvproj
+Project File Date:  06/17/2015
+
+<h2>Output:</h2>
+Rebuild target 'NEW_DEH'
+creating preprocessor file for adc_AI.c...
+compiling adc_AI.c...
+..\User\adc_AI.c(78): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\adc_AI.c(80): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\adc_AI.c(80): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+..\User\adc_AI.c(82): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_AI.c(83): error:  #20: identifier "GPIO_Pin_5" is undefined
+..\User\adc_AI.c(84): error:  #20: identifier "GPIO_Pin_4" is undefined
+..\User\adc_AI.c(85): error:  #20: identifier "GPIO_Pin_3" is undefined
+..\User\adc_AI.c(86): error:  #20: identifier "GPIO_Pin_2" is undefined
+..\User\adc_AI.c(87): error:  #20: identifier "GPIO_Pin_1" is undefined
+..\User\adc_AI.c(88): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\adc_AI.c(89): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\adc_AI.c(90): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\adc_AI.c(92): error:  #20: identifier "GPIO_Pin_6" is undefined
+..\User\adc_AI.c(94): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+..\User\adc_AI.c(97): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(98): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(116): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(116): error:  #20: identifier "GPIO_Pin_2" is undefined
+..\User\adc_AI.c(127): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(146): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(146): error:  #20: identifier "GPIO_Pin_5" is undefined
+..\User\adc_AI.c(151): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(151): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_AI.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\adc_AI.c(159): error:  #20: identifier "GPIO_Pin_6" is undefined
+..\User\adc_AI.c(159): error:  #20: identifier "Bit_SET" is undefined
+creating preprocessor file for adc_RTD.c...
+compiling adc_RTD.c...
+..\User\adc_RTD.c(56): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\adc_RTD.c(58): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\adc_RTD.c(58): error:  #20: identifier "RCC_APB2Periph_GPIOG" is undefined
+..\User\adc_RTD.c(59): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+..\User\adc_RTD.c(61): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\adc_RTD.c(61): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\adc_RTD.c(62): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\adc_RTD.c(63): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\adc_RTD.c(64): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\adc_RTD.c(66): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\adc_RTD.c(68): error:  #20: identifier "GPIO_Mode_IPU" is undefined
+..\User\adc_RTD.c(71): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_RTD.c(71): error:  #20: identifier "GPIO_Pin_8" is undefined
+..\User\adc_RTD.c(77): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(78): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(102): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(102): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_RTD.c(112): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(146): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(146): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\adc_RTD.c(151): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(151): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\adc_RTD.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\adc_RTD.c(159): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\adc_RTD.c(159): error:  #20: identifier "Bit_SET" is undefined
+creating preprocessor file for dac.c...
+compiling dac.c...
+..\User\dac.c(63): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\dac.c(65): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\dac.c(65): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+..\User\dac.c(67): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\dac.c(68): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\dac.c(69): error:  #20: identifier "GPIO_Pin_12" is undefined
+..\User\dac.c(70): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\dac.c(71): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\dac.c(72): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\dac.c(74): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\dac.c(76): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+..\User\dac.c(79): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(131): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\dac.c(131): error:  #20: identifier "GPIO_Pin_12" is undefined
+..\User\dac.c(139): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(148): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\dac.c(148): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\dac.c(153): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(153): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\dac.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\dac.c(159): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\dac.c(159): error:  #20: identifier "Bit_SET" is undefined
+creating preprocessor file for gpio.c...
+compiling gpio.c...
+..\User\gpio.c(8): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\gpio.c(10): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\gpio.c(10): error:  #20: identifier "RCC_APB2Periph_GPIOE" is undefined
+..\User\gpio.c(13): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\gpio.c(14): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\gpio.c(15): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\gpio.c(17): error:  #20: identifier "RCC_APB2Periph_GPIOF" is undefined
+..\User\gpio.c(20): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+creating preprocessor file for main.c...
+compiling main.c...
+Project build/rebuild aborted.
+Target not created
+Build target 'NEW_DEH'
+compiling adc_AI.c...
+..\User\adc_AI.c(78): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\adc_AI.c(80): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\adc_AI.c(80): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+..\User\adc_AI.c(82): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_AI.c(83): error:  #20: identifier "GPIO_Pin_5" is undefined
+..\User\adc_AI.c(84): error:  #20: identifier "GPIO_Pin_4" is undefined
+..\User\adc_AI.c(85): error:  #20: identifier "GPIO_Pin_3" is undefined
+..\User\adc_AI.c(86): error:  #20: identifier "GPIO_Pin_2" is undefined
+..\User\adc_AI.c(87): error:  #20: identifier "GPIO_Pin_1" is undefined
+..\User\adc_AI.c(88): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\adc_AI.c(89): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\adc_AI.c(90): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\adc_AI.c(92): error:  #20: identifier "GPIO_Pin_6" is undefined
+..\User\adc_AI.c(94): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+..\User\adc_AI.c(97): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(98): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(116): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(116): error:  #20: identifier "GPIO_Pin_2" is undefined
+..\User\adc_AI.c(127): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(146): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_AI.c(146): error:  #20: identifier "GPIO_Pin_5" is undefined
+..\User\adc_AI.c(151): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_AI.c(151): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_AI.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\adc_AI.c(159): error:  #20: identifier "GPIO_Pin_6" is undefined
+..\User\adc_AI.c(159): error:  #20: identifier "Bit_SET" is undefined
+compiling adc_RTD.c...
+..\User\adc_RTD.c(56): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\adc_RTD.c(58): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\adc_RTD.c(58): error:  #20: identifier "RCC_APB2Periph_GPIOG" is undefined
+..\User\adc_RTD.c(59): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+..\User\adc_RTD.c(61): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\adc_RTD.c(61): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\adc_RTD.c(62): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\adc_RTD.c(63): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\adc_RTD.c(64): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\adc_RTD.c(66): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\adc_RTD.c(68): error:  #20: identifier "GPIO_Mode_IPU" is undefined
+..\User\adc_RTD.c(71): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_RTD.c(71): error:  #20: identifier "GPIO_Pin_8" is undefined
+..\User\adc_RTD.c(77): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(78): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(102): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(102): error:  #20: identifier "GPIO_Pin_7" is undefined
+..\User\adc_RTD.c(112): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(146): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\adc_RTD.c(146): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\adc_RTD.c(151): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\adc_RTD.c(151): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\adc_RTD.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\adc_RTD.c(159): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\adc_RTD.c(159): error:  #20: identifier "Bit_SET" is undefined
+compiling dac.c...
+..\User\dac.c(63): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\dac.c(65): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\dac.c(65): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+..\User\dac.c(67): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\dac.c(68): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\dac.c(69): error:  #20: identifier "GPIO_Pin_12" is undefined
+..\User\dac.c(70): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\dac.c(71): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\dac.c(72): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\dac.c(74): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\dac.c(76): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+..\User\dac.c(79): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(131): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\dac.c(131): error:  #20: identifier "GPIO_Pin_12" is undefined
+..\User\dac.c(139): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(148): warning:  #223-D: function "GPIO_ResetBits" declared implicitly
+..\User\dac.c(148): error:  #20: identifier "GPIO_Pin_15" is undefined
+..\User\dac.c(153): warning:  #223-D: function "GPIO_SetBits" declared implicitly
+..\User\dac.c(153): error:  #20: identifier "GPIO_Pin_13" is undefined
+..\User\dac.c(159): warning:  #223-D: function "GPIO_ReadInputDataBit" declared implicitly
+..\User\dac.c(159): error:  #20: identifier "GPIO_Pin_14" is undefined
+..\User\dac.c(159): error:  #20: identifier "Bit_SET" is undefined
+compiling gpio.c...
+..\User\gpio.c(8): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+..\User\gpio.c(10): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+..\User\gpio.c(10): error:  #20: identifier "RCC_APB2Periph_GPIOE" is undefined
+..\User\gpio.c(13): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+..\User\gpio.c(14): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+..\User\gpio.c(15): warning:  #223-D: function "GPIO_Init" declared implicitly
+..\User\gpio.c(17): error:  #20: identifier "RCC_APB2Periph_GPIOF" is undefined
+..\User\gpio.c(20): error:  #20: identifier "GPIO_Mode_IN_FLOATING" is undefined
+compiling stm32f10x_it.c...
+creating preprocessor file for core_cm3.c...
+core_cm3.c: Error:  #5: cannot open source input file "..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c": No such file or directory
+compiling core_cm3.c...
+core_cm3.c: Error:  #5: cannot open source input file "..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c": No such file or directory
+Target not created

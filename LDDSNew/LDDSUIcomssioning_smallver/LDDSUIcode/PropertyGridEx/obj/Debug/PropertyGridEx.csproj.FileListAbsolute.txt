@@ -1,0 +1,54 @@
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0110\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0123\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcomssioning\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.dll
+F:\project_sg\LDDS\LDDSUIcomssioning_smallver\LDDSUIcode\PropertyGridEx\obj\Debug\PropertyGridEx.pdb

@@ -1,0 +1,117 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll.config
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Debug\DataBus.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Debug\MySql.Data.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\obj\Debug\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\obj\Debug\DataBus.pdb
+D:\HVAC\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll.config
+D:\HVAC\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll
+D:\HVAC\BSTAR\Designer\DataBus\bin\Debug\DataBus.pdb
+D:\HVAC\BSTAR\Designer\DataBus\bin\Debug\MySql.Data.dll
+D:\HVAC\BSTAR\Designer\DataBus\obj\Debug\DataBus.dll
+D:\HVAC\BSTAR\Designer\DataBus\obj\Debug\DataBus.pdb
+D:\HVAC\BSTAR\Designer\DataBus\bin\Debug\app.config
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\bin\Debug\app.config
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll.config
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\bin\Debug\DataBus.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\bin\Debug\DataBus.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\bin\Debug\MySql.Data.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\obj\Debug\DataBus.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\Designer\Designer\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\Designer\Designer\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\Designer\Designer\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\Designer\Designer\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\Designer\Designer\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\Designer\Designer\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\Designer\Designer\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\Designer\Designer\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3 - Copy\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\app.config
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\app.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\app.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.dll.config
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\DataBus.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\bin\Debug\MySql.Data.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.csprojResolveAssemblyReference.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.csproj.CoreCompileInputs.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\DataBus\obj\Debug\DataBus.pdb

@@ -1,0 +1,65 @@
+
+  <Object type="System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="UserControl1" children="Controls">
+    <Object type="AutotunerLite.PIDAutotuningEx, AutotunerLite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" name="PIDAutotuningEx3" children="Controls">
+      <Property name="PIDLoopName">AHU B4_309 SAT PID Loop</Property>
+      <Property name="WaterMarkText" />
+      <Property name="SPAIPort" />
+      <Property name="SPValue">0</Property>
+      <Property name="PValue">0</Property>
+      <Property name="IValue">0</Property>
+      <Property name="DValue">0</Property>
+      <Property name="MVValue">0</Property>
+      <Property name="SelectLocation" />
+      <Property name="SelectComponent" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">739, 71</Property>
+      <Property name="Name">PIDAutotuningEx3</Property>
+      <Property name="Size">190, 164</Property>
+      <Property name="TabIndex">2</Property>
+    </Object>
+    <Object type="AutotunerLite.PIDAutotuningEx, AutotunerLite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" name="PIDAutotuningEx2" children="Controls">
+      <Property name="PIDLoopName">AHU B4_309 SAT PID Loop</Property>
+      <Property name="WaterMarkText" />
+      <Property name="SPAIPort" />
+      <Property name="SPValue">0</Property>
+      <Property name="PValue">0</Property>
+      <Property name="IValue">0</Property>
+      <Property name="DValue">0</Property>
+      <Property name="MVValue">0</Property>
+      <Property name="SelectLocation" />
+      <Property name="SelectComponent" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">786, 265</Property>
+      <Property name="Name">PIDAutotuningEx2</Property>
+      <Property name="Size">190, 164</Property>
+      <Property name="TabIndex">1</Property>
+    </Object>
+    <Object type="AutotunerLite.PIDAutotuningEx, AutotunerLite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" name="PIDAutotuningEx1" children="Controls">
+      <Property name="PIDLoopName">AHU B4_309 SAT PID Loop</Property>
+      <Property name="WaterMarkText" />
+      <Property name="SPAIPort" />
+      <Property name="SPValue">0</Property>
+      <Property name="PValue">0</Property>
+      <Property name="IValue">0</Property>
+      <Property name="DValue">0</Property>
+      <Property name="MVValue">0</Property>
+      <Property name="SelectLocation" />
+      <Property name="SelectComponent" />
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">350, 62</Property>
+      <Property name="Name">PIDAutotuningEx1</Property>
+      <Property name="Size">190, 164</Property>
+      <Property name="TabIndex">0</Property>
+    </Object>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="Name">UserControl1</Property>
+    <Property name="Size">1533, 863</Property>
+  </Object>

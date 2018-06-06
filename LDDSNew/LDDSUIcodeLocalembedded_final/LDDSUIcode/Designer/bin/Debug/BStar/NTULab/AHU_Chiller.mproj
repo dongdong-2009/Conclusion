@@ -1,0 +1,15 @@
+<MProj>
+  <GraphicsEdition>
+    <WHU />
+    <AHU />
+    <BSTAR />
+    <Chiller />
+    <Chiller2 />
+    <Form1 />
+  </GraphicsEdition>
+  <设备驱动 />
+  <报警设置 />
+  <事件设置 />
+  <实时数据库 />
+  <控制策略 />
+</MProj>

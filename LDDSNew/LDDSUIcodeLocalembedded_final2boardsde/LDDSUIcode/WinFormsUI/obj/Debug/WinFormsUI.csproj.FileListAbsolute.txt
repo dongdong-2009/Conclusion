@@ -1,0 +1,97 @@
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\bin\Debug\license.txt
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\Designer\Designer\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal3\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\license.txt
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WinFormsUI.csproj.CoreCompileInputs.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb

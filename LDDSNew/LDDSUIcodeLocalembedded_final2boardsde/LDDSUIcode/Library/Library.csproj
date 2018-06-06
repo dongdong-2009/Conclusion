@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CF415933-3EC4-488A-8E15-8B8E070C98F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ACMV.BLL">
+      <HintPath>..\PIDDLL\ACMV.BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.Controls">
+      <HintPath>..\PIDDLL\ACMV.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.DAL">
+      <HintPath>..\PIDDLL\ACMV.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.FactoryDAL">
+      <HintPath>..\PIDDLL\ACMV.FactoryDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.IDAL">
+      <HintPath>..\PIDDLL\ACMV.IDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.Model">
+      <HintPath>..\PIDDLL\ACMV.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.MSSQLDAL">
+      <HintPath>..\PIDDLL\ACMV.MSSQLDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ACMV.MySqlDAL">
+      <HintPath>..\PIDDLL\ACMV.MySqlDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PIDDLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Alarm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\Alarm.Designer.cs">
+      <DependentUpon>Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\AlarmList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\AlarmList.Designer.cs">
+      <DependentUpon>AlarmList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Button.Designer.cs">
+      <DependentUpon>Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ButtonCheck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\ButtonCheck.Designer.cs">
+      <DependentUpon>ButtonCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\levelmeter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\levelmeter.Designer.cs">
+      <DependentUpon>levelmeter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\statusIndicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\statusIndicator.Designer.cs">
+      <DependentUpon>statusIndicator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Curve.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Curve.Designer.cs">
+      <DependentUpon>Curve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Date.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Date.Designer.cs">
+      <DependentUpon>Date.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Ellipse.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Ellipse.Designer.cs">
+      <DependentUpon>Ellipse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\CommunicationOnOff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\CommunicationOnOff.Designer.cs">
+      <DependentUpon>CommunicationOnOff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\RunState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\RunState.Designer.cs">
+      <DependentUpon>RunState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\SendButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\SendButton.Designer.cs">
+      <DependentUpon>SendButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ButtonCheckFun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\ButtonCheckFun.Designer.cs">
+      <DependentUpon>ButtonCheckFun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Lable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Lable.Designer.cs">
+      <DependentUpon>Lable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Led.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Led.Designer.cs">
+      <DependentUpon>Led.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Lines.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Lines.Designer.cs">
+      <DependentUpon>Lines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\PanelExtend.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\PictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\PictureBox.Designer.cs">
+      <DependentUpon>PictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\ArrowLink.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\ArrowLink.Designer.cs">
+      <DependentUpon>ArrowLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier1.Designer.cs">
+      <DependentUpon>Dehumidifier1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier2.Designer.cs">
+      <DependentUpon>Dehumidifier2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier3.Designer.cs">
+      <DependentUpon>Dehumidifier3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Dehumidifier4.designer.cs">
+      <DependentUpon>Dehumidifier4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\HeatExchangers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\HeatExchangers.Designer.cs">
+      <DependentUpon>HeatExchangers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Heatpump.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Heatpump.Designer.cs">
+      <DependentUpon>Heatpump.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\HotWaterHeater.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\HotWaterHeater.Designer.cs">
+      <DependentUpon>HotWaterHeater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Module.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Module.Designer.cs">
+      <DependentUpon>Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Regenerator1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Regenerator1.Designer.cs">
+      <DependentUpon>Regenerator1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Regenerator2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Regenerator2.Designer.cs">
+      <DependentUpon>Regenerator2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Regenerator3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Regenerator3.Designer.cs">
+      <DependentUpon>Regenerator3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Regenerator4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Regenerator4.Designer.cs">
+      <DependentUpon>Regenerator4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDS\Tank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LDDS\Tank.Designer.cs">
+      <DependentUpon>Tank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Common\RadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\RadioButton.Designer.cs">
+      <DependentUpon>RadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Rectangles.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Rectangles.Designer.cs">
+      <DependentUpon>Rectangles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\RichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\RichTextBox.Designer.cs">
+      <DependentUpon>RichTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Scale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\Scale.Designer.cs">
+      <DependentUpon>Scale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Switch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\Switch.Designer.cs">
+      <DependentUpon>Switch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\TextBox.Designer.cs">
+      <DependentUpon>TextBox.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Alarm.resx">
+      <DependentUpon>Alarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\ButtonCheck.resx">
+      <DependentUpon>ButtonCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\ButtonCheckFun.resx">
+      <DependentUpon>ButtonCheckFun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\levelmeter.resx">
+      <DependentUpon>levelmeter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Ellipse.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\CommunicationOnOff.resx">
+      <DependentUpon>CommunicationOnOff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\RunState.resx">
+      <DependentUpon>RunState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\SendButton.resx">
+      <DependentUpon>SendButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\ArrowLink.resx">
+      <DependentUpon>ArrowLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Dehumidifier1.resx">
+      <DependentUpon>Dehumidifier1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Dehumidifier2.resx">
+      <DependentUpon>Dehumidifier2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Dehumidifier3.resx">
+      <DependentUpon>Dehumidifier3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Dehumidifier4.resx">
+      <DependentUpon>Dehumidifier4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\HeatExchangers.resx">
+      <DependentUpon>HeatExchangers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Heatpump.resx">
+      <DependentUpon>Heatpump.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\HotWaterHeater.resx">
+      <DependentUpon>HotWaterHeater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Module.resx">
+      <DependentUpon>Module.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Regenerator1.resx">
+      <DependentUpon>Regenerator1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Regenerator2.resx">
+      <DependentUpon>Regenerator2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Regenerator3.resx">
+      <DependentUpon>Regenerator3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDS\Tank.resx">
+      <DependentUpon>Tank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Rectangles.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Lines.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\AlarmList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AlarmList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\Scale.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Scale.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Date.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\AlarmList.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Scale.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Led.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Curve.bmp" />
+    <EmbeddedResource Include="Common\Switch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Switch.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Switch.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Hot_Water_Heater_01.PNG" />
+    <None Include="Resources\HEX_Plate_Frame_02.png" />
+    <None Include="Resources\Cooling_Tower_12_Forward_Water_Spray_ON.gif" />
+    <None Include="Resources\Chiller_Carrier_011.png" />
+    <None Include="Resources\AHU_Econo_Dual_Duct_SF_and_RF.PNG" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\camera-web.png" />
+    <None Include="Resources\Air_Compressor_01.png" />
+    <None Include="Resources\Heat_Wheel_ON.gif" />
+    <None Include="Resources\Sensor_Wall_Co2_Sensor_01.PNG" />
+    <None Include="Resources\Chiller_Carrier_01.png" />
+    <None Include="Resources\functiontest1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataBus\DataBus.csproj">
+      <Project>{6E346443-D46D-4F3F-B43A-8A98252BA34F}</Project>
+      <Name>DataBus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alarmOn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HEX_Plate_Frame_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FlowtestingArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HumidityArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LengthArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThermistorArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VibTestingArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WatermixingArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FlowTestingArrow-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WaterMixingArrow-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckoff6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btncheckon6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NormalState.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FailState.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heatpump.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dehumidifier2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dehumidifier1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Bitmap1.bmp" />
+    <Content Include="Resources\bluedot.png" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\dehum1.jpg" />
+    <None Include="Resources\de940730.png" />
+    <None Include="Resources\reg940730.png" />
+    <None Include="Resources\button_glossy_bluetrans.png" />
+    <None Include="Resources\button_glossy_yellowtras.png" />
+    <None Include="Resources\SDbutton.PNG" />
+    <None Include="Resources\WaterMixingArrow_new.png" />
+    <None Include="Resources\FlowTestingArrow_new.png" />
+    <Content Include="Resources\yellowdot.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

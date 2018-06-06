@@ -1,0 +1,10 @@
+<MProj>
+  <GraphicsEdition>
+    <LDDS />
+  </GraphicsEdition>
+  <Divers />
+  <Alarm />
+  <Event />
+  <Database />
+  <ControlStrategy />
+</MProj>

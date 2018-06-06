@@ -1,0 +1,80 @@
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+C:\Users\WANGGG\Desktop\BSTAR\BSTAR\Designer\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcode\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocal 1208\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+C:\lddsAZ\LDDS\LDDSUIcodeLocalembedded\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0107\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded0112\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+F:\project_sg\LDDS\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\bin\Debug\ToolBoxEvo.pdb
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csprojResolveAssemblyReference.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.Properties.Resources.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\Silver.UI.ToolBox.resources
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.GenerateResource.Cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.csproj.CoreCompileInputs.cache
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.dll
+D:\LDDSModuleMode\LDDSUIcodeLocalembedded_final\LDDSUIcode\ToolBoxEvo\obj\Debug\ToolBoxEvo.pdb

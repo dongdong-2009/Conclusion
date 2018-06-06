@@ -1,0 +1,38 @@
+
+  <Object type="System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="UserControl1" children="Controls">
+    <Object type="ACMV.Controls.AlarmLight, ACMV.Controls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AlarmLight1" children="Controls">
+      <Property name="CurrentLightIndex">3</Property>
+      <Property name="BindingVariableName" />
+      <Property name="BackColor">White</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="ForeColor">Transparent</Property>
+      <Property name="Location">1103, 428</Property>
+      <Property name="Name">AlarmLight1</Property>
+      <Property name="Size">16, 16</Property>
+      <Property name="TabIndex">31</Property>
+    </Object>
+    <Object type="Library.Common.ButtonCheck, Library, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" name="ButtonCheck1" children="Controls">
+      <Property name="CheckStyleX">style3</Property>
+      <Property name="RelatedDeviceType">1</Property>
+      <Property name="BoardNumber">00000000</Property>
+      <Property name="RelatedPort">REG1</Property>
+      <Property name="PortData" />
+      <Property name="PortBind">REG1_Handle</Property>
+      <Property name="DeviceName">ahu_startup</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Cursor">Hand</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">108, 792</Property>
+      <Property name="Name">ButtonCheck1</Property>
+      <Property name="Size">87, 27</Property>
+      <Property name="TabIndex">28</Property>
+    </Object>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="Name">UserControl1</Property>
+  </Object>

@@ -1,0 +1,15 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\Toolbox.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\Library.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.Controls.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.BLL.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.Model.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.IDAL.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.FactoryDAL.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\ACMV.Common.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\Library.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\bin\Release\DataBus.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\obj\Release\Toolbox.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\obj\Release\ToolboxLibrary.Toolbox.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\obj\Release\Toolbox.csproj.GenerateResource.Cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\Toolbox\obj\Release\Toolbox.dll

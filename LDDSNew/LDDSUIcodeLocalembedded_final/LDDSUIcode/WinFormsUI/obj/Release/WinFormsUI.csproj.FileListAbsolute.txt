@@ -1,0 +1,9 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\bin\Release\license.txt
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WinFormsUI.csprojResolveAssemblyReference.cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Resources.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Strings.resources
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WinFormsUI.csproj.GenerateResource.Cache
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.pdb

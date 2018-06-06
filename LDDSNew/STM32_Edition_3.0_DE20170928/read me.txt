@@ -1,0 +1,1 @@
+Compared with version 2, this version has unified general communication protocol, connecting with the DAQ. 

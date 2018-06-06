@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<systemconfig>
+
+  <DbType name="MySQL">
+    <ConnDAL name="DAL" value="ACMV.MYSQLDAL" >
+    </ConnDAL>
+  </DbType>
+
+  <ConnString name="MySQL">
+    <!--<ConnStringMySQL name="ConnStringMySQL" value="server=172.19.37.175;database=bstar_test;uid=root;pwd=thisishvac;port=5000;">-->
+    <ConnStringMySQL name="ConnStringMySQL" value="Server=localhost;DataBase=bstar_test;uid=root;pwd=sasa;">
+      <Description name="ConDescription" value="b3-309 database server">
+      </Description>
+    </ConnStringMySQL>
+  </ConnString>
+
+  <DbTable name="MySQL">
+    <DaqControlDAO name="DaqControlDAO" value="daq_control" >
+    </DaqControlDAO>
+    <DaqReadHistoryDAO name="DaqReadHistoryDAO" value="daq_read_history" >
+    </DaqReadHistoryDAO>
+    <DaqReadPidDAO name="DaqReadPidDAO" value="daq_read_pid" >
+    </DaqReadPidDAO>
+  </DbTable>
+
+
+</systemconfig>
+

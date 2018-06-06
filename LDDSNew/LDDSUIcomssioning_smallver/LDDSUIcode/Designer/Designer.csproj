@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F24F3CB8-1C3D-489B-943E-6C53E2CAFEA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Designer</RootNamespace>
+    <AssemblyName>Designer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Designer.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="ComData.cs" />
+    <Compile Include="DAQ\DAQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DAQ\DAQ.Designer.cs">
+      <DependentUpon>DAQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DllManager\CDllManager.cs" />
+    <Compile Include="FormNewProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewProject.Designer.cs">
+      <DependentUpon>FormNewProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hook\OverallHook.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjectManager\PMWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectManager\PMWindow.Designer.cs">
+      <DependentUpon>PMWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectManager\ProjectManagerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectManager\ProjectManagerWindow.Designer.cs">
+      <DependentUpon>ProjectManagerWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticFunctions\SqlHelper.cs" />
+    <Compile Include="StaticFunctions\DAStaticFunctions.cs" />
+    <Compile Include="Settingcontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settingcontrol.Designer.cs">
+      <DependentUpon>Settingcontrol.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DAQ\DAQ.resx">
+      <DependentUpon>DAQ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settingcontrol.resx">
+      <DependentUpon>Settingcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewProject.resx">
+      <DependentUpon>FormNewProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectManager\PMWindow.resx">
+      <DependentUpon>PMWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectManager\ProjectManagerWindow.resx">
+      <DependentUpon>ProjectManagerWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="LoopConfigurer">
+      <HintPath>..\..\Release\Plugins\LoopConfigurer\LoopConfigurer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MWArray, Version=2.10.1.0, Culture=neutral, PublicKeyToken=e1d84a0da19db86f, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MWArray.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.8\lib\net40\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLpara, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NLpara.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-new-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-open-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Host\Host.csproj">
+      <Project>{0B007B04-EAA6-419C-BDA0-6C394D0DC485}</Project>
+      <Name>Host</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Library\Library.csproj">
+      <Project>{CF415933-3EC4-488A-8E15-8B8E070C98F3}</Project>
+      <Name>Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Loader\Loader.csproj">
+      <Project>{35446B57-9AC5-4DDB-9D65-16D6DFF39C04}</Project>
+      <Name>Loader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PropertyGridEx\PropertyGridEx.csproj">
+      <Project>{B0BB47F2-21C4-41FC-B6E6-40757ADFC4A1}</Project>
+      <Name>PropertyGridEx</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolBoxEvo\ToolBoxEvo.csproj">
+      <Project>{D937E1F4-1B9F-4567-B28E-EED24AA31C9C}</Project>
+      <Name>ToolBoxEvo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Toolbox\Toolbox.csproj">
+      <Project>{3581F0CD-5B33-40F8-A664-F48D544FE0EF}</Project>
+      <Name>Toolbox</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-save-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multD.PNG" />
+    <None Include="Resources\heatpump.png" />
+    <None Include="Resources\run-build-file.png" />
+    <None Include="Resources\longlogo2.bmp" />
+    <None Include="Resources\longlogo1.bmp" />
+    <None Include="Resources\longlogo.bmp" />
+    <None Include="Resources\WaterMixingArrow-new.png" />
+    <None Include="Resources\FlowTestingArrow-new.png" />
+    <None Include="Resources\WatermixingArrow.png" />
+    <None Include="Resources\VibTestingArrow.png" />
+    <None Include="Resources\ThermistorArrow.png" />
+    <None Include="Resources\LengthArrow.png" />
+    <None Include="Resources\HumidityArrow.png" />
+    <None Include="Resources\FlowtestingArrow.png" />
+    <None Include="Resources\document-save-4.png" />
+    <None Include="Resources\document-save-as-4.png" />
+    <None Include="Resources\load1.gif" />
+    <None Include="Resources\splash.png" />
+    <None Include="Resources\object-flip-vertical-2.png" />
+    <None Include="Resources\object-flip-horizontal-2.png" />
+    <None Include="Resources\system-run-5.png" />
+    <None Include="Resources\system-run1.png" />
+    <None Include="Resources\folder-new-51.png" />
+    <None Include="Resources\edit-delete-3.png" />
+    <None Include="Resources\folder-open-31.png" />
+    <None Include="Resources\folder-new-72.png" />
+    <None Include="Resources\folder-new-71.png" />
+    <None Include="Resources\folder-new-7.png" />
+    <None Include="Resources\application-exit.png" />
+    <None Include="Resources\add-to-desktop.png" />
+    <None Include="Resources\chilledwater1.PNG" />
+    <Content Include="Resources\DBtool\document-save-5.png" />
+    <Content Include="Resources\DBtool\document-save-all.png" />
+    <Content Include="Resources\DBtool\edit-add-31.png" />
+    <Content Include="Resources\DBtool\edit-remove-21.png" />
+    <Content Include="Resources\DBtool\ListIcons\ToolBox_Large.bmp" />
+    <Content Include="Resources\DBtool\ListIcons\ToolBox_Small.bmp" />
+    <None Include="Resources\go-next-51.png" />
+    <None Include="Resources\go-next-5.png" />
+    <None Include="Resources\system-run.png" />
+    <None Include="Resources\object-rotate-right-3.png" />
+    <None Include="Resources\object-rotate-left-31.png" />
+    <None Include="Resources\object-rotate-left-3.png" />
+    <None Include="Resources\distribute-horizontal-right.png" />
+    <None Include="Resources\distribute-vertical-top.png" />
+    <None Include="Resources\distribute-vertical-bottom.png" />
+    <None Include="Resources\distribute-horizontal-left.png" />
+    <None Include="Resources\edit-redo-8.png" />
+    <None Include="Resources\edit-undo-8.png" />
+    <None Include="Resources\layer-backward.png" />
+    <None Include="Resources\layer-forward.png" />
+    <None Include="Resources\select-rectangular.png" />
+    <None Include="Resources\edit-cut.png" />
+    <None Include="Resources\edit-paste.png" />
+    <None Include="Resources\edit-copy-4.png" />
+    <None Include="Resources\edit-delete-6.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
