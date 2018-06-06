@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+  <AddedComponent FullName="PIDAutotuningEx" Name="PIDAutotuningEx" Namespace="System.Windows.Forms" Asm="AutotunerLite.dll">
+    <Propertys>
+      <Property Name="PIDLoopName" Caption="PIDLoopName" Group="Advanced_PID_Label"/>
+      <Property Name="LoopName" Caption="LoopName" Group="Advanced_PID_Label"/>
+      <Property Name="SPName" Caption="SPName" Group="Advanced_PID_Label"/>
+      <Property Name="MVName" Caption="MVName" Group="Advanced_PID_Label"/>
+	    <Property Name="EnableAutotuning" Caption="EnableAutotuning" Group="Advanced_Autotuning"/>
+      
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+    </Propertys>  
+  </AddedComponent>

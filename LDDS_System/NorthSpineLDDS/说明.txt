@@ -1,0 +1,29 @@
+1.lddsUI是用来监控ldds运行状况的windows客户端
+这个版本是临时的，UI控制信号不生效。适用于对于northspine那台系统的监控。同时需要运行老版本DAQ(可去labsvn下载或者找软件负责人)
+
+2.ldds_de1114 是除湿的stm32代码，用于第二版大板，附原理图。
+
+3.关于look up table 的生成以及使用
+
+4.look up table的生成
+
+模型源自文章A hybrid dehumidifier model for real-time performance monitoring, control and optimization in liquid desiccant dehumidification system
+所有的浓度是密度计手测加计算得来的，并依据文章的模型算出对应关系。需要采集数据训练模型。
+
+表的维度是溶液浓度和溶液温度，内容是出口湿度。另外根据入口湿度区分不同的表格。
+
+
+这套系统因为一些原因没用。
+但代码可以用是好用的，只是需要更新新系统自己的参数。
+
+
+5.关于开阀门时间计算
+float opencnts(float error)
+
+the parameters of this function are calculated with the following method
+1) measure the response of between the outlet air humidity and the concentration in the tank
+2) calculate the parameters by considering the working concentration,the flowrate from strong solution buffer
+3) notice do not open this valve too long, the threshold need to be carefully considered to avoid high level alarm of detank
+
+
+6关于逻辑，本文件夹内附有逻辑说明文档。

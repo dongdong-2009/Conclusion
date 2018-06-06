@@ -1,0 +1,4 @@
+<controlBoards>
+  <controlBoard name="DeCoilCw" boardNumber="00000000" targetType="dehumidifer" />
+  <controlBoard name="ReNoAdjHp" boardNumber="00010000" targetType="regenerator" />
+</controlBoards>

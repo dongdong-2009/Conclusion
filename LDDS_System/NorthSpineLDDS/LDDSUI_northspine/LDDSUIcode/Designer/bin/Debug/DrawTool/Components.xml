@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Components>
+ <Component Name="UserControl" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="BackColor" Group=""/>
+	  <Property Name="BackgroundImage" Caption="BackgroundImage" Group=""/>
+	  <Property Name="BackgroundImageLayout" Caption="BackgroundImageLayout" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	  
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+
+  
+   <Component Name="Report" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	  
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="TraceLine" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	  <Property Name="CurveName1" Caption="CurveName1" Group=""/>
+	  <Property Name="CurveName2" Caption="CurveName2" Group=""/>
+	  <Property Name="CurveName3" Caption="CurveName3" Group=""/>
+	  <Property Name="CurveName4" Caption="CurveName4" Group=""/>
+	  <Property Name="CurveName5" Caption="CurveName5" Group=""/>
+	  <Property Name="CurveName6" Caption="CurveName6" Group=""/>
+	  <Property Name="CurveName7" Caption="CurveName7" Group=""/>
+	  <Property Name="CurveName8" Caption="CurveName8" Group=""/>
+	 <Property Name="CurveColor1" Caption="CurveColor1" Group=""/>
+	  <Property Name="CurveColor2" Caption="CurveColor2" Group=""/>
+	  <Property Name="CurveColor3" Caption="CurveColor3" Group=""/>
+	  <Property Name="CurveColor4" Caption="CurveColor4" Group=""/>
+	  <Property Name="CurveColor5" Caption="CurveColor5" Group=""/>
+	  <Property Name="CurveColor6" Caption="CurveColor6" Group=""/>
+	  <Property Name="CurveColor7" Caption="CurveColor7" Group=""/>
+	  <Property Name="CurveColor8" Caption="CurveColor8" Group=""/>
+	  <Property Name="YAxisScaleMin" Caption="YAxisScaleMin" Group=""/>
+	  <Property Name="YAxisScaleMax" Caption="YAxisScaleMax" Group=""/>
+      <Property Name="Title" Caption="Title" Group=""/>
+      <Property Name="XAxisTitle" Caption="XAxisTitle" Group=""/>
+	  <Property Name="YAxisTitle" Caption="YAxisTitle" Group=""/>
+	   <Property Name="RefreshTime" Caption="RefreshTime" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="Temperature" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	 <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+ <Component Name="Switch" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	 <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+ <Property Name="BitOnImage" Caption="BitOnImage" Group=""/>
+<Property Name="BitOffImage" Caption="BitOffImage" Group=""/>
+<Property Name="BitisOn" Caption="BitisOn" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+
+   <Component Name="Scale" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="ScaleRange" Caption="ScaleRange" Group=""/>
+	  <Property Name="LargeTicksCount" Caption="LargeTicksCount" Group=""/>
+	  <Property Name="LargeTicksLength" Caption="LargeTicksLength" Group=""/>
+	  <Property Name="SmallTickCount" Caption="SmallTickCount" Group=""/>
+	  <Property Name="SmallTickLength" Caption="SmallTickLength" Group=""/>
+	  <Property Name="ShadowEnabled" Caption="ShadowEnabled" Group=""/>
+	   <Property Name="ShadowColor" Caption="ShadowColor" Group=""/>
+	  <Property Name="NeedleColor" Caption="NeedleColor" Group=""/>
+	  <Property Name="Orientation" Caption="Orientation" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="Meter" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BodyColor" Caption="BodyColor" Group=""/>
+	  <Property Name="NeedleColor" Caption="NeedleColor" Group=""/>
+	  <Property Name="ViewGlass" Caption="ViewGlass" Group=""/>
+	  <Property Name="ScaleColor" Caption="ScaleColor" Group=""/>
+	  <Property Name="MinValue" Caption="MinValue" Group=""/>
+	  <Property Name="MaxValue" Caption="MaxValue" Group=""/>
+	   <Property Name="ScaleDivisions" Caption="ScaleDivisions" Group=""/>
+	  <Property Name="ScaleSubDivisions" Caption="ScaleSubDivisions" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="Curve" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="MaxValue" Caption="MaxValue" Group=""/>
+	  <Property Name="sName" Caption="sName" Group=""/>
+	  <Property Name="Title" Caption="Title" Group=""/>
+	  <Property Name="TextColor" Caption="TextColor" Group=""/>
+	  <Property Name="AxisColor" Caption="AxisColor" Group=""/>
+	  <Property Name="CurveColor" Caption="CurveColor" Group=""/>
+	   <Property Name="DashStyle" Caption="DashStyle" Group=""/>
+	  <Property Name="LineStyle" Caption="LineStyle" Group=""/>
+	   <Property Name="FontSize" Caption="FontSize" Group=""/>
+	   <Property Name="mFont" Caption="mFont" Group=""/>
+	  <Property Name="CurveSize" Caption="CurveSize" Group=""/>
+	  <Property Name="LineColor" Caption="LineColor" Group=""/>
+	  <Property Name="LineWidth" Caption="LineWidth" Group=""/>
+	  <Property Name="LineAlpha" Caption="LineAlpha" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+    <Component Name="Led" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="FillColor" Caption="FillColor" Group=""/>
+	  <Property Name="CenterColor" Caption="CenterColor" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="PictureBox" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Image" Caption="Image" Group=""/>
+	  <Property Name="SizeMode" Caption="SizeMode" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+
+  <Component Name="
+             
+" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="BackColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="TextAlign" Caption="TextAlign" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Lock" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="RichTextBox" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+  <Component Name="Lable" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Image" Caption="Image" Group=""/>
+      <Property Name="ImageAlign" Caption="ImageAlign" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="TextAlign" Caption="TextAlign" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="isVisible" Caption="isVisible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+    </DataBinding>
+  </Component>
+   <Component Name="levelmeter" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	    <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	    <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+      <Property Name="LevelRange" Caption="LevelRange" Group=""/>
+      
+    </Propertys>
+    <DataBinding>
+    </DataBinding>
+  </Component>
+   <Component Name="Date" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Image" Caption="Image" Group=""/>
+      <Property Name="ImageAlign" Caption="ImageAlign" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="TextAlign" Caption="TextAlign" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+   <Component Name="RadioButton" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+      <Property Name="CheckAlign" Caption="CheckAlign" Group=""/>
+	  <Property Name="Checked" Caption="Checked" Group=""/>
+	  <Property Name="FlatStyle" Caption="FlatStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+      <Property Name="RightToLeft" Caption="RightToLeft" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+  <Component Name="Ellipse" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="FillPattern" Caption="填充图案" Group=""/>
+	   <Property Name="FillColor" Caption="填充颜色" Group=""/>
+      <Property Name="HatchStyle" Caption="填充风格" Group=""/>
+	   <Property Name="LineColor" Caption="边缘线色" Group=""/>
+      <Property Name="LineWidth" Caption="边缘线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="边缘风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+	   <Property Name="Visible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="Rectangles" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="FillPattern" Caption="填充图案" Group=""/>
+	   <Property Name="FillColor" Caption="填充颜色" Group=""/>
+      <Property Name="HatchStyle" Caption="填充风格" Group=""/>
+	   <Property Name="LineColor" Caption="边缘线色" Group=""/>
+      <Property Name="LineWidth" Caption="边缘线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="边缘风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+	   <Property Name="Visible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+ 
+   <Component Name="Arc" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	   <Property Name="LineColor" Caption="线色" Group=""/>
+      <Property Name="LineWidth" Caption="线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="线条风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+	    <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	   <Property Name="StartAngle" Caption="圆弧起点" Group=""/>
+      <Property Name="SweepAngle" Caption="圆弧角度" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="Bezier" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	   <Property Name="LineColor" Caption="线色" Group=""/>
+      <Property Name="LineWidth" Caption="线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="线条风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+	   <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	   <Property Name="p1" Caption="贝兹曲线P1" Group=""/>
+      <Property Name="p2" Caption="贝兹曲线P2" Group=""/>
+	   <Property Name="p3" Caption="贝兹曲线P3" Group=""/>
+      <Property Name="p4" Caption="贝兹曲线P4" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="Pie" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	 <Property Name="FillPattern" Caption="填充图案" Group=""/>
+	   <Property Name="FillColor" Caption="填充颜色" Group=""/>
+      <Property Name="HatchStyle" Caption="填充风格" Group=""/>
+	   <Property Name="LineColor" Caption="边缘线色" Group=""/>
+      <Property Name="LineWidth" Caption="边缘线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="边缘风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+	   <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	   <Property Name="StartAngle" Caption="扇面起点" Group=""/>
+      <Property Name="SweepAngle" Caption="扇面角度" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="Polygon" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	 <Property Name="FillPattern" Caption="填充图案" Group=""/>
+	   <Property Name="FillColor" Caption="填充颜色" Group=""/>
+      <Property Name="HatchStyle" Caption="填充风格" Group=""/>
+	   <Property Name="LineColor" Caption="边缘线色" Group=""/>
+      <Property Name="LineWidth" Caption="边缘线宽" Group=""/>
+	    <Property Name="DashStyle" Caption="边缘风格" Group=""/>
+      <Property Name="LineAlpha" Caption="线色透明" Group=""/>
+	   <Property Name="isVisible" Caption="Visible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	    <Property Name="p1" Caption="多边形P1" Group=""/>
+      <Property Name="p2" Caption="多边形P2" Group=""/>
+	   <Property Name="p3" Caption="多边形P3" Group=""/>
+      <Property Name="p4" Caption="多边形P4" Group=""/>
+	    <Property Name="p5" Caption="多边形P5" Group=""/>
+      <Property Name="p6" Caption="多边形P6" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="Lines" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	   <Property Name="LineColor" Caption="LineColor" Group=""/>
+      <Property Name="LineWidth" Caption="LineWidth" Group=""/>
+	    <Property Name="DashStyle" Caption="DashStyle" Group=""/>
+      <Property Name="LineAlpha" Caption="LineAlpha" Group=""/>
+	   <Property Name="isVisible" Caption="isVisible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	   <Property Name="LinePattern" Caption="LinePattern" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="RotaryImage" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+	   <Property Name="angle" Caption="angle" Group=""/>
+      <Property Name="TheImage" Caption="TheImage" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+	   <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+  <Component Name="Button" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="BackColor" Caption="FillColor" Group=""/>
+	  <Property Name="Image" Caption="Image" Group=""/>
+      <Property Name="ImageAlign" Caption="ImageAlign" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="ForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="FlatStyle" Caption="FlatStyle" Group=""/>
+      <Property Name="Text" Caption="Text" Group=""/>
+	  <Property Name="TextAlign" Caption="TextAlign" Group=""/>
+	  <Property Name="TextImageRelation" Caption="TextImageRelation" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+	  <Property Name="isVisible" Caption="isVisible" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+
+  </Component>
+   <Component Name="AlarmList" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="AlarmBackColor" Caption="FillColor" Group=""/>
+      <Property Name="BorderStyle" Caption="BorderStyle" Group=""/>
+      <Property Name="Font" Caption="Font" Group=""/>
+      <Property Name="AlarmForeColor" Caption="ForeColor" Group=""/>
+      <Property Name="Size" Caption="Size" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Locked" Caption="Locked" Group=""/>
+	  <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+    <DataBinding>
+
+    </DataBinding>
+  </Component>
+
+  <Component Name="RealTimeDataChart" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="BackColor" Caption="BackColor" Group=""/>
+      <Property Name="BackHatchStyle" Caption="BackHatchStyle" Group=""/>
+      <Property Name="ChartAreas" Caption="Name" Group=""/>
+      <Property Name="BoderSkin" Caption="Name" Group=""/>
+      <Property Name="BackGradientStyle" Caption="Name" Group=""/>
+      <Property Name="BackSecondaryColor" Caption="Name" Group=""/>
+      <Property Name="Data" Caption="Name" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="AtoMain" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="ret_val" Caption="ret_val" Group=""/>
+    </Propertys>
+  </Component> 
+  <Component Name="NumericUpDownEx" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="BoardNo" Caption="BoardNo" Group=""/>
+      <Property Name="BoardNoText" Caption="BoardNoText" Group=""/>
+      <Property Name="PortNo" Caption="loopNo" Group=""/>
+      <Property Name="PortNoText" Caption="loopNoText" Group=""/>
+    </Propertys>
+  </Component>
+
+  <Component Name="RealTimeChart" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+    </Propertys>
+  </Component>
+
+  <Component Name="HistoryDataChart" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="SendButton" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="ButtonCheck" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="CheckStyleX" Caption="CheckStyleX" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="PortBind" Caption="PortBind" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="ButtonCheckFun" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="CheckStyleX" Caption="CheckStyleX" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="PortBind" Caption="PortBind" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="statusIndicator" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+    </Propertys>
+  </Component>
+
+  <Component Name="OnOff" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+    </Propertys>
+  </Component>
+  
+   <Component Name="Led" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+    </Propertys>
+  </Component>
+   
+  
+  <Component Name="Alarm" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="ID" Caption="ID" Group=""/>
+      <Property Name="UpLimit" Caption="UpLimit" Group=""/>
+      <Property Name="DownLimit" Caption="DownLimit" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="RunState" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="RelatedDeviceType" Caption="RelatedDeviceType" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+      <Property Name="RelatedPort" Caption="RelatedPort" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+    </Propertys>
+  </Component>
+  <!--<Component Name="AHU" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+    </Propertys>
+  </Component>-->
+  <Component Name="LDDS" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      
+    </Propertys>
+  </Component>
+  <Component Name="Dehumidifier1" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Dehumidifier2" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Dehumidifier3" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+
+  <Component Name="Dehumidifier4" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Heatpump" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+    
+  </Component>
+  <Component Name="Regenerator1" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+
+  <Component Name="Regenerator3" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Regenerator2" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Regenerator4" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  
+  <Component Name="Tank" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  <!--<Component Name="Chiller" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+    </Propertys>
+  </Component>-->
+  <!--<Component Name="TerminalUnit" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+    </Propertys>
+  </Component>-->
+  <!--<Component Name="WHU" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+    </Propertys>
+  </Component>-->      
+  <Component Name="HotWaterHeater" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  <Component Name="HeatExchangers" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="DeviceName" Caption="DeviceName" Group=""/>
+      <Property Name="BoardNumber" Caption="BoardNumber" Group=""/>
+    </Propertys>
+  </Component>
+  <!--<Component Name="CoolingTower" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+    </Propertys>
+  </Component>-->
+
+  <Component Name="ArrowLink" Namespace="System.Windows.Forms" Asm="System.dll">
+    <Propertys>
+      <Property Name="InterfaceName" Caption="InterfaceName" Group=""/>
+      <Property Name="ArrowName" Caption="ArrowName" Group=""/>
+    </Propertys>
+  </Component>
+  <AddedComponent FullName="PIDControlPanelWithDataConn" Name="PIDControlPanelWithDataConn" Namespace="System.Windows.Forms" Asm="ACMV.Controls.dll">
+    <!--<Asm Asm="ACMV.Controls.dll"/>-->
+    <Propertys>
+      <Property Name="BoardNoText" Caption="BoardNoText" Group="Advanced"/>
+      <Property Name="LoopNo" Caption="LoopNo" Group="Advanced"/>
+      <Property Name="MVAOPort" Caption="MVAOPort" Group="Advanced"/>
+      <Property Name="SPAIPort" Caption="SPAIPort" Group="Advanced"/>
+      <Property Name="MVValue" Caption="MVValue" Group="Advanced_PID"/>
+      <Property Name="PValue" Caption="PValue" Group="Advanced_PID"/>
+      <Property Name="IValue" Caption="IValue" Group="Advanced_PID"/>
+      <Property Name="DValue" Caption="DValue" Group="Advanced_PID"/>
+      <Property Name="SPValue" Caption="SPValue" Group="Advanced_PID"/>
+      <Property Name="OnoffValue" Caption="OnoffValue" Group="Advanced_PID"/>
+      <Property Name="LoopName" Caption="LoopName" Group="Advanced_PID_Label"/>
+      <Property Name="PVName" Caption="PVName" Group="Advanced_PID_Label"/>
+      <Property Name="MVName" Caption="MVName" Group="Advanced_PID_Label"/>
+      <Property Name="AllowSelectLoop" Caption="AllowSelectLoop" Group="Advanced_PID_Select"/>
+      <Property Name="SelectLoopName" Caption="SelectLoopName" Group="Advanced_PID_Select"/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+  </AddedComponent>
+  <AddedComponent FullName="AlarmLight" Name="AlarmLight" Namespace="System.Windows.Forms" Asm="ACMV.Controls.dll">
+    <Propertys>
+      <Property Name="BindingVariableName" Caption="BindingVariableName" Group=""/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+  </AddedComponent>
+  <AddedComponent FullName="dropdownpanel" Name="dropdownpanel" Namespace="System.Windows.Forms" Asm="ACMV.Controls.dll">
+    <Propertys>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="HeaderText" Caption="HeaderText" Group=""/>
+    </Propertys>
+  </AddedComponent>
+  <AddedComponent FullName="Controls.MetroButton" Name="MetroButton" Namespace="System.Windows.Forms" Asm="DMSkin.dll">
+    <Propertys>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+  </AddedComponent>
+
+  <AddedComponent FullName="Controls.MetroCombox" Name="MetroCombox" Namespace="System.Windows.Forms" Asm="DMSkin.dll">
+    <Propertys>
+      <Property Name="Location" Caption="Location" Group=""/>
+      <Property Name="Name" Caption="Name" Group=""/>
+    </Propertys>
+  </AddedComponent>
+
+  <AddedComponent FullName="PIDAutotuning" Name="PIDAutotuning" Namespace="System.Windows.Forms" Asm="AutotunerLite.dll">
+    <Propertys>
+      <Property Name="Name" Caption="Name" Group=""/>
+      <Property Name="BoardNoText" Caption="BoardNoText" Group="Advanced"/>
+      <Property Name="LoopNo" Caption="LoopNo" Group="Advanced"/>
+      <Property Name="MVAOPort" Caption="MVAOPort" Group="Advanced"/>
+      <Property Name="SPAIPort" Caption="SPAIPort" Group="Advanced"/>
+      <Property Name="EnableAutotuning" Caption="EnableAutotuning" Group="Advanced_Autotuning"/>
+      <Property Name="MVValue" Caption="MVValue" Group="Advanced_PID"/>
+      <Property Name="PValue" Caption="PValue" Group="Advanced_PID"/>
+      <Property Name="IValue" Caption="IValue" Group="Advanced_PID"/>
+      <Property Name="DValue" Caption="DValue" Group="Advanced_PID"/>
+      <Property Name="SPValue" Caption="SPValue" Group="Advanced_PID"/>
+      <Property Name="OnoffValue" Caption="OnoffValue" Group="Advanced_PID"/>
+      <Property Name="LoopName" Caption="LoopName" Group="Advanced_PID_Label"/>
+      <Property Name="PVName" Caption="PVName" Group="Advanced_PID_Label"/>
+      <Property Name="MVName" Caption="MVName" Group="Advanced_PID_Label"/>
+      <Property Name="AllowSelectLoop" Caption="AllowSelectLoop" Group="Advanced_PID_Select"/>
+      <Property Name="SelectLoopName" Caption="SelectLoopName" Group="Advanced_PID_Select"/>
+      <Property Name="Location" Caption="Location" Group=""/>
+      
+    </Propertys>
+  </AddedComponent>
+
+</Components>

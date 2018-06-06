@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CM3\CoreSupport -I..\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\startup -I..\USER -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "logic.o" --omf_browse "logic.crf" --depend "logic.d" "..\USER\logic.c"

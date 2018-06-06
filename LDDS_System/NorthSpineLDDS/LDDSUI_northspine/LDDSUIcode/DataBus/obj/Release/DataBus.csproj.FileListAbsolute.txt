@@ -1,0 +1,16 @@
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Release\DataBus.dll.config
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Release\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Release\DataBus.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\bin\Release\MySql.Data.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\obj\Release\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Designer\DataBus\obj\Release\DataBus.pdb
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Release\DataBus.dll.config
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Release\DataBus.dll
+E:\myntu\GoogleDrive\BAS\BSTAR\develop\bstar_svn\BSTAR\Release\DataBus.pdb
+D:\HVAC\BSTAR\Release\DataBus.dll.config
+D:\HVAC\BSTAR\Release\DataBus.dll
+D:\HVAC\BSTAR\Release\DataBus.pdb
+D:\HVAC\BSTAR\Designer\DataBus\obj\Release\DataBus.dll
+D:\HVAC\BSTAR\Designer\DataBus\obj\Release\DataBus.pdb
+D:\HVAC\BSTAR\Designer\DataBus\obj\Release\DataBus.csprojResolveAssemblyReference.cache
+D:\HVAC\BSTAR\Release\app.config
