@@ -1,0 +1,32 @@
+.\objects\ringbuffer.o: ..\Master\ringbuffer.c
+.\objects\ringbuffer.o: ..\Master\ringbuffer.h
+.\objects\ringbuffer.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\ringbuffer.o: ..\CM3\CoreSupport\core_cm3.h
+.\objects\ringbuffer.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: ..\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_conf.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_adc.h
+.\objects\ringbuffer.o: ..\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_bkp.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_can.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_cec.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_crc.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_dac.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_exti.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_flash.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_fsmc.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_iwdg.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_pwr.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_rtc.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_sdio.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\ringbuffer.o: ..\Libraries\inc\stm32f10x_wwdg.h
+.\objects\ringbuffer.o: ..\Libraries\inc\misc.h
+.\objects\ringbuffer.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdio.h
