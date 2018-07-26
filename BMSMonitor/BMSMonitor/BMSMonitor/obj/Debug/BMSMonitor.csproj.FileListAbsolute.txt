@@ -1,0 +1,13 @@
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\bin\Debug\BMSMonitor.exe.config
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\bin\Debug\BMSMonitor.exe
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\bin\Debug\BMSMonitor.pdb
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\bin\Debug\NModbus4.dll
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\bin\Debug\NModbus4.xml
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.csprojResolveAssemblyReference.cache
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.Properties.Resources.resources
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.csproj.GenerateResource.Cache
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.exe
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.pdb
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.MBConfig.resources
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.SerialPortCfg.resources
+C:\Users\xu\Desktop\BMSMonitor\BMSMonitor\BMSMonitor\obj\Debug\BMSMonitor.MainForm.resources
