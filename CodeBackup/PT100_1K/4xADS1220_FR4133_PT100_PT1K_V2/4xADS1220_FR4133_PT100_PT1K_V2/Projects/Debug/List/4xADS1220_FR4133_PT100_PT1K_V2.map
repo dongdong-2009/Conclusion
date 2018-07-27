@@ -1,0 +1,2060 @@
+################################################################################
+#                                                                              #
+#      IAR Universal Linker V6.5.0.91                                          #
+#                                                                              #
+#           Link time     =  23/May/2017  14:35:10                             #
+#           Target CPU    =  MSP430                                            #
+#           List file     =  C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\List\4xADS1220_FR4133_PT100_PT1K_V2.map #
+#           Output file 1 =  C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.txt  #
+#                            Format: msp430_txt                                #
+#           Output file 2 =  C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.d43  #
+#                            Format: ubrof10                                   #
+#                            UBROF version 10.0.6                              #
+#           Command line  =  -f E:\temp\AppData\Local\Temp\EW1349.tmp          #
+#                            (C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_ #
+#                            PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proj #
+#                            ects\Debug\Obj\ADS1220.r43                        #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\bsp_board.r43                       #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\bsp_leds.r43                        #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\delay.r43                           #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\eeprom.r43                          #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\gpio.r43                            #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\io_spi.r43                          #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\main.r43                            #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\RTD_Math_1.r43                      #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\spi_slave.r43                       #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Obj\utilities.r43                       #
+#                            -o                                                #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.d43  #
+#                            -z -l                                             #
+#                            C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_P #
+#                            T100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Proje #
+#                            cts\Debug\List\4xADS1220_FR4133_PT100_PT1K_V2.map #
+#                            -xms "-ID:\software install\IAR430\430\LIB\" -f   #
+#                            "D:\software install\IAR430\430\config\linker\lnk #
+#                            430fr4133.xcl"                                    #
+#                            (-cmsp430 -QCODE_I=CODE_ID -QTLS16_I=TLS16_ID     #
+#                            -Z(CONST)INFO=1800-19FF                           #
+#                            -Z(CONST)INFOA=1800-19FF                          #
+#                            -Z(DATA)DATA16_I,DATA16_Z,DATA16_N,TLS16_I=2000-2 #
+#                            7FF                                               #
+#                            -Z(DATA)CODE_I                                    #
+#                            -Z(DATA)DATA20_I,DATA20_Z,DATA20_N                #
+#                            -Z(DATA)CSTACK+_STACK_SIZE#                       #
+#                            -Z(CONST)DATA16_P,DATA20_P=C400-FF7F              #
+#                            -Z(DATA)DATA16_HEAP+_DATA16_HEAP_SIZE,DATA20_HEAP #
+#                            +_DATA20_HEAP_SIZE                                #
+#                            -Z(CONST)DATA16_C,DATA16_ID,TLS16_ID,DIFUNCT,CHEC #
+#                            KSUM=C400-FF7F                                    #
+#                            -Z(CONST)DATA20_C,DATA20_ID                       #
+#                            -Z(CODE)CSTART,ISR_CODE,CODE_ID=C400-FF7F         #
+#                            -P(CODE)CODE,CODE16=C400-FF7F                     #
+#                            -Z(CONST)SIGNATURE=FF80-FF87                      #
+#                            -Z(CODE)INTVEC=FF88-FFFF                          #
+#                            -Z(CODE)RESET=FFFE-FFFF) -D_STACK_SIZE=80         #
+#                            -Fubrof                                           #
+#                            "D:\software install\IAR430\430\lib\clib\cl430xls #
+#                            f.r43"                                            #
+#                            -e_small_write=_formatted_write                   #
+#                            -D_DATA16_HEAP_SIZE=0                             #
+#                            -Omsp430_txt=C:\Users\馨\Desktop\WGG-新协议\4xADS #
+#                            1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_ #
+#                            PT1K_V2\Projects\Debug\Exe\4xADS1220_FR4133_PT100 #
+#                            _PT1K_V2.txt                                      #
+#                            -s __program_start -D_DATA20_HEAP_SIZE=50         #
+#                            --enable_stack_usage)                             #
+#                                                                              #
+#                           Copyright (C) 1987-2016 IAR Systems AB.            #
+################################################################################
+
+
+
+
+
+                ****************************************
+                *                                      *
+                *           CROSS REFERENCE            *
+                *                                      *
+                ****************************************
+
+       Program entry at :           D496  Relocatable, from module : ?cstart
+
+
+
+
+                ****************************************
+                *                                      *
+                *            RUNTIME MODEL             *
+                *                                      *
+                ****************************************
+
+  __SystemLibrary = CLib
+  __code_model    = large
+  __core          = 430X
+  __data_model    = small
+  __double_size   = 32
+  __pic           = no
+  __reg_r4        = free
+  __reg_r5        = free
+  __rt_version    = 3
+
+                ****************************************
+                *                                      *
+                *    AUTOMATIC SYMBOL REDIRECTIONS     *
+                *                                      *
+                ****************************************
+
+                  There are no automatic symbol redirections.
+
+
+
+                ****************************************
+                *                                      *
+                *              MODULE MAP              *
+                *                                      *
+                ****************************************
+
+
+  DEFINED ABSOLUTE ENTRIES
+    *************************************************************************
+
+  DEFINED ABSOLUTE ENTRIES
+  PROGRAM MODULE, NAME : ?ABS_ENTRY_MOD
+
+Absolute parts
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _DATA20_HEAP_SIZE       0050 
+           _DATA16_HEAP_SIZE       0000 
+           _STACK_SIZE             0080 
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\ADS1220.r43
+  PROGRAM MODULE, NAME : ADS1220
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0242 - 0243 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   GpioInit (gpio)
+                                                   IO_SPI_read_write_data (io_spi)
+                                                   IO_SpiInit (io_spi)
+                                                   USCIB0_SPI_write
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PCOUT_L              0242 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PCOUT                   0242 
+           PCOUT_H                 0243 
+           PCOUT_L                 0242 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20CE - 20DD (0x10 bytes), align: 0
+  Segment part 6.             Intra module refs:   ADS1220_Reset
+                                                   ADS1220_Start
+                                                   ADS1220_Write_Regs
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           RcvData                 20CE 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2014 - 2017 (0x4 bytes), align: 1
+  Segment part 7.             Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateData_1   2014 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20DE - 20DE (0x1 bytes), align: 0
+  Segment part 8.             Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateCount_1
+                                   20DE 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2018 - 201B (0x4 bytes), align: 1
+  Segment part 9.             Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+                                                   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateValue_1
+                                   2018 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 201C - 201F (0x4 bytes), align: 1
+  Segment part 10.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PgaGainLevel_1          201C            rtd_process_1 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2020 - 2023 (0x4 bytes), align: 1
+  Segment part 11.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rawData_1               2020            rtd_process_1 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2024 - 2027 (0x4 bytes), align: 1
+  Segment part 12.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateData_2   2024 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20DF - 20DF (0x1 bytes), align: 0
+  Segment part 13.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateCount_2
+                                   20DF 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2028 - 202B (0x4 bytes), align: 1
+  Segment part 14.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+                                                   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateValue_2
+                                   2028 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 202C - 202F (0x4 bytes), align: 1
+  Segment part 15.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PgaGainLevel_2          202C            rtd_process_2 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2030 - 2033 (0x4 bytes), align: 1
+  Segment part 16.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rawData_2               2030            rtd_process_2 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2034 - 2037 (0x4 bytes), align: 1
+  Segment part 17.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateData_3   2034 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E0 - 20E0 (0x1 bytes), align: 0
+  Segment part 18.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateCount_3
+                                   20E0 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2038 - 203B (0x4 bytes), align: 1
+  Segment part 19.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+                                                   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateValue_3
+                                   2038 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 203C - 203F (0x4 bytes), align: 1
+  Segment part 20.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PgaGainLevel_3          203C            rtd_process_3 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2040 - 2043 (0x4 bytes), align: 1
+  Segment part 21.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rawData_3               2040            rtd_process_3 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2044 - 2047 (0x4 bytes), align: 1
+  Segment part 22.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateData_4   2044 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E1 - 20E1 (0x1 bytes), align: 0
+  Segment part 23.            Intra module refs:   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateCount_4
+                                   20E1 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2048 - 204B (0x4 bytes), align: 1
+  Segment part 24.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+                                                   ADS1220_Offset_Calibrate_Data
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           OffsetCalibrateValue_4
+                                   2048 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 204C - 204F (0x4 bytes), align: 1
+  Segment part 25.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PgaGainLevel_4          204C            rtd_process_4 (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2050 - 2053 (0x4 bytes), align: 1
+  Segment part 26.            Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rawData_4               2050            rtd_process_4 (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E504 - E5FD (0xfa bytes), align: 1
+  Segment part 30.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           Setup_ADS1220           E504            main (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E5FE - E6F5 (0xf8 bytes), align: 1
+  Segment part 31.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Offset_Calibrate_Data
+                                   E5FE            main (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ED78 - ED91 (0x1a bytes), align: 1
+  Segment part 29.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Reset           ED78 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EDDA - EDF1 (0x18 bytes), align: 1
+  Segment part 32.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Start           EDDA            main (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EB2E - EB6F (0x42 bytes), align: 1
+  Segment part 28.            Intra module refs:   Setup_ADS1220
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Write_Regs      EB2E 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ED0C - ED33 (0x28 bytes), align: 1
+  Segment part 36.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Get_Conversion_Data
+                                   ED0C            main (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: DF9C - E15F (0x1c4 bytes), align: 1
+  Segment part 37.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ADS1220_Get_Conversion_Data_Calibrated
+                                   DF9C            rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E7BA - E84F (0x96 bytes), align: 1
+  Segment part 27.            Intra module refs:   ADS1220_Get_Conversion_Data
+                                                   ADS1220_Get_Conversion_Data_Calibrated
+                                                   ADS1220_Reset
+                                                   ADS1220_Start
+                                                   ADS1220_Write_Regs
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           USCIB0_SPI_write        E7BA 
+               calls direct
+    -------------------------------------------------------------------------
+DATA16_C
+  Relative segment, address: D47C - D47E (0x3 bytes), align: 0
+  Segment part 4.             Intra module refs:   ADS1220_Get_Conversion_Data
+    -------------------------------------------------------------------------
+DATA16_C
+  Relative segment, address: D47F - D481 (0x3 bytes), align: 0
+  Segment part 5.             Intra module refs:   ADS1220_Get_Conversion_Data_Calibrated
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\bsp_board.r43
+  PROGRAM MODULE, NAME : bsp_board
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0180 - 0181 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL0_L             0180 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL0                  0180 
+           CSCTL0_H                0181 
+           CSCTL0_L                0180 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0182 - 0183 (0x2 bytes), align: 0
+  Segment part 2. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL1_L             0182 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL1                  0182 
+           CSCTL1_H                0183 
+           CSCTL1_L                0182 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0184 - 0185 (0x2 bytes), align: 0
+  Segment part 3. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL2_L             0184 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL2                  0184 
+           CSCTL2_H                0185 
+           CSCTL2_L                0184 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0186 - 0187 (0x2 bytes), align: 0
+  Segment part 4. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL3_L             0186 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL3                  0186 
+           CSCTL3_H                0187 
+           CSCTL3_L                0186 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0188 - 0189 (0x2 bytes), align: 0
+  Segment part 5. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL4_L             0188 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL4                  0188 
+           CSCTL4_H                0189 
+           CSCTL4_L                0188 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 018A - 018B (0x2 bytes), align: 0
+  Segment part 6. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL5_L             018A 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL5                  018A 
+           CSCTL5_H                018B 
+           CSCTL5_L                018A 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 018E - 018F (0x2 bytes), align: 0
+  Segment part 7. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_CSCTL7_L             018E 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           CSCTL7                  018E 
+           CSCTL7_H                018F 
+           CSCTL7_L                018E 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 01A0 - 01A1 (0x2 bytes), align: 0
+  Segment part 8. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_FRCTL0_L             01A0 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           FRCTL0                  01A0 
+           FRCTL0_H                01A1 
+           FRCTL0_L                01A0 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0130 - 0131 (0x2 bytes), align: 0
+  Segment part 9. ROOT        Intra module refs:   BSP_InitBoard
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PM5CTL0_L            0130 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PM5CTL0                 0130 
+           PM5CTL0_H               0131 
+           PM5CTL0_L               0130 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EA94 - EAE1 (0x4e bytes), align: 1
+  Segment part 11.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           BSP_InitBoard           EA94            main (main)
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\bsp_leds.r43
+  PROGRAM MODULE, NAME : bsp_leds
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0262 - 0263 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   BSP_InitLeds
+                                                   GpioInit (gpio)
+                                                   main (main)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PDOUT_L              0262 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PDOUT                   0262 
+           PDOUT_H                 0263 
+           PDOUT_L                 0262 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0264 - 0265 (0x2 bytes), align: 0
+  Segment part 2. ROOT        Intra module refs:   BSP_InitLeds
+                                                   GpioInit (gpio)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PDDIR_L              0264 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PDDIR                   0264 
+           PDDIR_H                 0265 
+           PDDIR_L                 0264 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ED56 - ED77 (0x22 bytes), align: 1
+  Segment part 4.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           BSP_InitLeds            ED56            main (main)
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\delay.r43
+  PROGRAM MODULE, NAME : delay
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0340 - 0341 (0x2 bytes), align: 0
+  Segment part 1. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1CTL                  0340 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0342 - 0343 (0x2 bytes), align: 0
+  Segment part 2. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1CCTL0                0342 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0344 - 0345 (0x2 bytes), align: 0
+  Segment part 3. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1CCTL1                0344 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0350 - 0351 (0x2 bytes), align: 0
+  Segment part 4. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1R                    0350 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0352 - 0353 (0x2 bytes), align: 0
+  Segment part 5. ROOT        Intra module refs:   TIMER1_A0_ISR
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1CCR0                 0352 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0354 - 0355 (0x2 bytes), align: 0
+  Segment part 6. ROOT        Intra module refs:   TIMER1_A1_ISR
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1CCR1                 0354 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 036E - 036F (0x2 bytes), align: 0
+  Segment part 7. ROOT        Intra module refs:   TIMER1_A1_ISR
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TA1IV                   036E 
+    -------------------------------------------------------------------------
+ISR_CODE
+  Relative segment, address: D4BE - D4CB (0xe bytes), align: 1
+  Segment part 16.            Intra module refs:   TIMER1_A0_ISR::??INTVEC 108
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TIMER1_A0_ISR           D4BE 
+               interrupt function
+    -------------------------------------------------------------------------
+ISR_CODE
+  Relative segment, address: D4CC - D4EF (0x24 bytes), align: 1
+  Segment part 17.            Intra module refs:   TIMER1_A1_ISR::??INTVEC 106
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TIMER1_A1_ISR           D4CC 
+               interrupt function
+    -------------------------------------------------------------------------
+INTVEC
+  Common segment, address: FF88 - FFF3 (0x6c bytes), align: 1
+  Segment part 8. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TIMER1_A1_ISR::??INTVEC 106
+                                   FFF2 
+    -------------------------------------------------------------------------
+INTVEC
+  Common segment, address: FF88 - FFF5 (0x6e bytes), align: 1
+  Segment part 9. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           TIMER1_A0_ISR::??INTVEC 108
+                                   FFF4 
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\eeprom.r43
+  PROGRAM MODULE, NAME : eeprom
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0160 - 0161 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   eeprom_write
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_SYSCFG0_L            0160 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           SYSCFG0                 0160 
+           SYSCFG0_H               0161 
+           SYSCFG0_L               0160 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2054 - 2065 (0x12 bytes), align: 1
+  Segment part 3.             Intra module refs:   GetSavedData
+                                                   SaveData
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ConfigAndSaved          2054            ADS1220_Get_Conversion_Data_Calibrated (ADS1220)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ED34 - ED55 (0x22 bytes), align: 1
+  Segment part 4.             Intra module refs:   SaveData
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           eeprom_write            ED34 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ECE4 - ED0B (0x28 bytes), align: 1
+  Segment part 5.             Intra module refs:   GetSavedData
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           SaveData                ECE4            rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E978 - E9DD (0x66 bytes), align: 1
+  Segment part 6.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GetSavedData            E978            main (main)
+               calls direct
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\gpio.r43
+  PROGRAM MODULE, NAME : gpio
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0202 - 0203 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   GpioInit
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAOUT_L              0202 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAOUT                   0202 
+           PAOUT_H                 0203 
+           PAOUT_L                 0202 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0204 - 0205 (0x2 bytes), align: 0
+  Segment part 2. ROOT        Intra module refs:   GpioInit
+                                                   Setup_IO (main)
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PADIR_L              0204 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PADIR                   0204 
+           PADIR_H                 0205 
+           PADIR_L                 0204 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0206 - 0207 (0x2 bytes), align: 0
+  Segment part 3. ROOT        Intra module refs:   GpioInit
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAREN_L              0206 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAREN                   0206 
+           PAREN_H                 0207 
+           PAREN_L                 0206 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 021C - 021D (0x2 bytes), align: 0
+  Segment part 4. ROOT        Intra module refs:   PORT2_ISR
+                                                   Setup_IO (main)
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAIFG_L              021C 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAIFG                   021C 
+           PAIFG_H                 021D 
+           PAIFG_L                 021C 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0222 - 0223 (0x2 bytes), align: 0
+  Segment part 5. ROOT        Intra module refs:   GpioInit
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PBOUT_L              0222 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PBOUT                   0222 
+           PBOUT_H                 0223 
+           PBOUT_L                 0222 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0224 - 0225 (0x2 bytes), align: 0
+  Segment part 6. ROOT        Intra module refs:   GpioInit
+                                                   IO_SpiInit (io_spi)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PBDIR_L              0224 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PBDIR                   0224 
+           PBDIR_H                 0225 
+           PBDIR_L                 0224 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0226 - 0227 (0x2 bytes), align: 0
+  Segment part 7. ROOT        Intra module refs:   GpioInit
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PBREN_L              0226 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PBREN                   0226 
+           PBREN_H                 0227 
+           PBREN_L                 0226 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0244 - 0245 (0x2 bytes), align: 0
+  Segment part 9. ROOT        Intra module refs:   GpioInit
+                                                   IO_SpiInit (io_spi)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PCDIR_L              0244 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PCDIR                   0244 
+           PCDIR_H                 0245 
+           PCDIR_L                 0244 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0540 - 0541 (0x2 bytes), align: 0
+  Segment part 12. ROOT       Intra module refs:   PORT2_ISR
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_UCB0CTLW0_L          0540 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           UCB0CTLW0               0540 
+           UCB0CTLW0_H             0541 
+           UCB0CTLW0_L             0540 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 056A - 056B (0x2 bytes), align: 0
+  Segment part 13. ROOT       Intra module refs:   PORT2_ISR
+                                                   SPI0_slave (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_UCB0IE_L             056A 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           UCB0IE                  056A 
+           UCB0IE_H                056B 
+           UCB0IE_L                056A 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E9DE - EA41 (0x64 bytes), align: 1
+  Segment part 16.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GpioInit                E9DE            main (main)
+    -------------------------------------------------------------------------
+ISR_CODE
+  Relative segment, address: D4F0 - D557 (0x68 bytes), align: 1
+  Segment part 17.            Intra module refs:   PORT2_ISR::??INTVEC 92
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PORT2_ISR               D4F0 
+               interrupt function
+               calls direct
+    -------------------------------------------------------------------------
+INTVEC
+  Common segment, address: FF88 - FFE5 (0x5e bytes), align: 1
+  Segment part 14. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           PORT2_ISR::??INTVEC 92
+                                   FFE4 
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\io_spi.r43
+  PROGRAM MODULE, NAME : io_spi
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0220 - 0221 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   IO_SPI_read_write_data
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PBIN_L               0220 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PBIN                    0220 
+           PBIN_H                  0221 
+           PBIN_L                  0220 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EBB0 - EBEB (0x3c bytes), align: 1
+  Segment part 7.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           IO_SpiInit              EBB0            main (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EC22 - EC57 (0x36 bytes), align: 1
+  Segment part 8.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           IO_SPI_read_write_data
+                                   EC22            USCIB0_SPI_write (ADS1220)
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\main.r43
+  PROGRAM MODULE, NAME : main
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 0200 - 0201 (0x2 bytes), align: 0
+  Segment part 1. ROOT        Intra module refs:   rtd_process_1
+                                                   rtd_process_2
+                                                   rtd_process_3
+                                                   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAIN_L               0200 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAIN                    0200 
+           PAIN_H                  0201 
+           PAIN_L                  0200 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 0218 - 0219 (0x2 bytes), align: 0
+  Segment part 3. ROOT        Intra module refs:   Setup_IO
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAIES_L              0218 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAIES                   0218 
+           PAIES_H                 0219 
+           PAIES_L                 0218 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 021A - 021B (0x2 bytes), align: 0
+  Segment part 4. ROOT        Intra module refs:   Setup_IO
+                                                   spi_slave_init (spi_slave)
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PAIE_L               021A 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PAIE                    021A 
+           PAIE_H                  021B 
+           PAIE_L                  021A 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 01CC - 01CD (0x2 bytes), align: 0
+  Segment part 7. ROOT        Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_WDTCTL_L             01CC 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           WDTCTL                  01CC 
+           WDTCTL_H                01CD 
+           WDTCTL_L                01CC 
+    -------------------------------------------------------------------------
+DATA16_C
+  Relative segment, address: C400 - C403 (0x4 bytes), align: 1
+  Segment part 10.            Intra module refs:   rtd_process_1
+                                                   rtd_process_2
+                                                   rtd_process_3
+                                                   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           MeasuredGainCodeValue_Pt1000_1K5
+                                   C400 
+    -------------------------------------------------------------------------
+DATA16_C
+  Relative segment, address: C404 - C407 (0x4 bytes), align: 1
+  Segment part 11.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           Rref_Pt100              C404            calculateRValue (RTD_Math_1)
+    -------------------------------------------------------------------------
+DATA16_C
+  Relative segment, address: C408 - C40B (0x4 bytes), align: 1
+  Segment part 12.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           Rref_Pt1000             C408            calculateRValue (RTD_Math_1)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E2 - 20E2 (0x1 bytes), align: 0
+  Segment part 14.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           calibrateCount          20E2 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E3 - 20E5 (0x3 bytes), align: 0
+  Segment part 15.            Intra module refs:   main
+                                                   rtd_process_1
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           tempData_1              20E3 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E6 - 20E8 (0x3 bytes), align: 0
+  Segment part 16.            Intra module refs:   main
+                                                   rtd_process_2
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           tempData_2              20E6 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20E9 - 20EB (0x3 bytes), align: 0
+  Segment part 17.            Intra module refs:   main
+                                                   rtd_process_3
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           tempData_3              20E9 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20EC - 20EE (0x3 bytes), align: 0
+  Segment part 18.            Intra module refs:   main
+                                                   rtd_process_4
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           tempData_4              20EC 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2066 - 2069 (0x4 bytes), align: 1
+  Segment part 19.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           temperature_1           2066 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 206A - 206D (0x4 bytes), align: 1
+  Segment part 20.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           temperature_2           206A 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 206E - 2071 (0x4 bytes), align: 1
+  Segment part 21.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           temperature_3           206E 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2072 - 2075 (0x4 bytes), align: 1
+  Segment part 22.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           temperature_4           2072 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2076 - 2079 (0x4 bytes), align: 1
+  Segment part 23.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           code_1                  2076 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 207A - 207D (0x4 bytes), align: 1
+  Segment part 24.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           code_2                  207A 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 207E - 2081 (0x4 bytes), align: 1
+  Segment part 25.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           code_3                  207E 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2082 - 2085 (0x4 bytes), align: 1
+  Segment part 26.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           code_4                  2082 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2086 - 2089 (0x4 bytes), align: 1
+  Segment part 27.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgTemp_1               2086 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 208A - 208D (0x4 bytes), align: 1
+  Segment part 28.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgTemp_2               208A 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 208E - 2091 (0x4 bytes), align: 1
+  Segment part 29.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgTemp_3               208E 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2092 - 2095 (0x4 bytes), align: 1
+  Segment part 30.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgTemp_4               2092 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 2096 - 2099 (0x4 bytes), align: 1
+  Segment part 31.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgRaw_1                2096 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 209A - 209D (0x4 bytes), align: 1
+  Segment part 32.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgRaw_2                209A 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 209E - 20A1 (0x4 bytes), align: 1
+  Segment part 33.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgRaw_3                209E 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20A2 - 20A5 (0x4 bytes), align: 1
+  Segment part 34.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgRaw_4                20A2 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20EF - 20EF (0x1 bytes), align: 0
+  Segment part 35.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgCount_1              20EF 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F0 - 20F0 (0x1 bytes), align: 0
+  Segment part 36.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgCount_2              20F0 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F1 - 20F1 (0x1 bytes), align: 0
+  Segment part 37.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgCount_3              20F1 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F2 - 20F2 (0x1 bytes), align: 0
+  Segment part 38.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           avgCount_4              20F2 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F3 - 20F3 (0x1 bytes), align: 0
+  Segment part 39.            Intra module refs:   main
+                                                   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ReadConversionData_1    20F3            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F4 - 20F4 (0x1 bytes), align: 0
+  Segment part 40.            Intra module refs:   main
+                                                   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ReadConversionData_2    20F4            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F5 - 20F5 (0x1 bytes), align: 0
+  Segment part 41.            Intra module refs:   main
+                                                   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ReadConversionData_3    20F5            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F6 - 20F6 (0x1 bytes), align: 0
+  Segment part 42.            Intra module refs:   main
+                                                   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ReadConversionData_4    20F6            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F7 - 20F7 (0x1 bytes), align: 0
+  Segment part 43.            Intra module refs:   rtd_process_1
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GainCal_1               20F7 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F8 - 20F8 (0x1 bytes), align: 0
+  Segment part 44.            Intra module refs:   rtd_process_2
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GainCal_2               20F8 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20F9 - 20F9 (0x1 bytes), align: 0
+  Segment part 45.            Intra module refs:   rtd_process_3
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GainCal_3               20F9 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20FA - 20FA (0x1 bytes), align: 0
+  Segment part 46.            Intra module refs:   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           GainCal_4               20FA 
+    -------------------------------------------------------------------------
+DATA16_I
+  Relative segment, address: 2000 - 2013 (0x14 bytes), align: 1
+  Segment part 47.            Intra module refs:   main
+                                                   rtd_process_1
+                                                   rtd_process_2
+                                                   rtd_process_3
+                                                   rtd_process_4
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           adc_result              2000            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: D5B0 - D87D (0x2ce bytes), align: 1
+  Segment part 54.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           main                    D5B0            Segment part 26 (?cstart)
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EDAA - EDC1 (0x18 bytes), align: 1
+  Segment part 53.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           Setup_IO                EDAA 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: DDD6 - DF9B (0x1c6 bytes), align: 1
+  Segment part 52.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rtd_process_1           DDD6 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: DA4A - DC0F (0x1c6 bytes), align: 1
+  Segment part 51.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rtd_process_2           DA4A 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: D87E - DA49 (0x1cc bytes), align: 1
+  Segment part 50.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rtd_process_3           D87E 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: DC10 - DDD5 (0x1c6 bytes), align: 1
+  Segment part 49.            Intra module refs:   main
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rtd_process_4           DC10 
+               calls direct
+    -------------------------------------------------------------------------
+DATA16_ID
+  Relative segment, address: D482 - D495 (0x14 bytes), align: 1
+  Segment part 48.            Intra module refs:   adc_result
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\RTD_Math_1.r43
+  PROGRAM MODULE, NAME : RTD_Math_1
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_C
+  Relative segment, address: C40C - D47B (0x1070 bytes), align: 1
+  Segment part 2.             Intra module refs:   findInterpolationIndex
+                                                   interpolateTemperatureValue
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           Points                  C40C 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E6F6 - E7B9 (0xc4 bytes), align: 1
+  Segment part 7.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           interpolateTemperatureValue
+                                   E6F6            rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+               calls direct
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20A6 - 20A9 (0x4 bytes), align: 1
+  Segment part 3.             Intra module refs:   interpolateTemperatureValue
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           interpolateTemperatureValue::interimValue
+                                   20A6 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20AA - 20AD (0x4 bytes), align: 1
+  Segment part 4.             Intra module refs:   interpolateTemperatureValue
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           interpolateTemperatureValue::targetValue
+                                   20AA 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20AE - 20B1 (0x4 bytes), align: 1
+  Segment part 5.             Intra module refs:   interpolateTemperatureValue
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           interpolateTemperatureValue::r_value
+                                   20AE 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EBEC - EC21 (0x36 bytes), align: 1
+  Segment part 8.             Intra module refs:   interpolateTemperatureValue
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           findInterpolationIndex
+                                   EBEC 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E850 - E8E5 (0x96 bytes), align: 1
+  Segment part 6.             Intra module refs:   interpolateTemperatureValue
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           calculateRValue         E850 
+               calls direct
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\spi_slave.r43
+  PROGRAM MODULE, NAME : spi_slave
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_AN
+  Relative segment, address: 024A - 024B (0x2 bytes), align: 0
+  Segment part 7. ROOT        Intra module refs:   spi_slave_init
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_PCSEL0_L             024A 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           PCSEL0                  024A 
+           PCSEL0_H                024B 
+           PCSEL0_L                024A 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 054C - 054D (0x2 bytes), align: 0
+  Segment part 8. ROOT        Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_UCB0RXBUF_L          054C 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           UCB0RXBUF               054C 
+           UCB0RXBUF_H             054D 
+           UCB0RXBUF_L             054C 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 054E - 054F (0x2 bytes), align: 0
+  Segment part 9. ROOT        Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_UCB0TXBUF_L          054E 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           UCB0TXBUF               054E 
+           UCB0TXBUF_H             054F 
+           UCB0TXBUF_L             054E 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 056C - 056D (0x2 bytes), align: 0
+  Segment part 11. ROOT       Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _A_UCB0IFG_L            056C 
+           LOCAL                   ADDRESS         
+           =====                   =======         
+           UCB0IFG                 056C 
+           UCB0IFG_H               056D 
+           UCB0IFG_L               056C 
+    -------------------------------------------------------------------------
+DATA16_AN
+  Relative segment, address: 056E - 056F (0x2 bytes), align: 0
+  Segment part 12. ROOT       Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           UCB0IV                  056E 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20B2 - 20C5 (0x14 bytes), align: 1
+  Segment part 15.            Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           send_result             20B2            PORT2_ISR (gpio)
+                                                   main (main)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20FB - 210A (0x10 bytes), align: 0
+  Segment part 16.            Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rx_buf                  20FB 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20C6 - 20C7 (0x2 bytes), align: 1
+  Segment part 17.            Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           rx_index                20C6            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20C8 - 20C9 (0x2 bytes), align: 1
+  Segment part 18.            Intra module refs:   SPI0_slave
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           tx_index                20C8            PORT2_ISR (gpio)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ECBA - ECE3 (0x2a bytes), align: 1
+  Segment part 19.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           spi_slave_init          ECBA            main (main)
+    -------------------------------------------------------------------------
+ISR_CODE
+  Relative segment, address: D558 - D5AF (0x58 bytes), align: 1
+  Segment part 20.            Intra module refs:   SPI0_slave::??INTVEC 98
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           SPI0_slave              D558 
+               interrupt function
+    -------------------------------------------------------------------------
+INTVEC
+  Common segment, address: FF88 - FFEB (0x64 bytes), align: 1
+  Segment part 13. ROOT 
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           SPI0_slave::??INTVEC 98
+                                   FFEA 
+
+    *************************************************************************
+
+  FILE NAME : C:\Users\馨\Desktop\WGG-新协议\4xADS1220_FR4133_PT100_PT1K_V2\4xADS1220_FR4133_PT100_PT1K_V2\Projects\Debug\Obj\utilities.r43
+  PROGRAM MODULE, NAME : utilities
+
+  SEGMENTS IN THE MODULE
+  ======================
+DATA16_Z
+  Relative segment, address: 20CA - 20CB (0x2 bytes), align: 1
+  Segment part 2.             Intra module refs:   __gie_disable
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           IntStatus               20CA 
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20CC - 20CD (0x2 bytes), align: 1
+  Segment part 3.             Intra module refs:   __gie_disable
+                                                   __gie_enable
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           IntsDisableCount        20CC 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EE08 - EE1D (0x16 bytes), align: 1
+  Segment part 5.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __gie_disable           EE08            main (main)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: ED92 - EDA9 (0x18 bytes), align: 1
+  Segment part 6.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __gie_enable            ED92            main (main)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EDF2 - EE07 (0x16 bytes), align: 1
+  Segment part 22.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ChkSum                  EDF2            GetSavedData (eeprom)
+                                                   SaveData (eeprom)
+
+    *************************************************************************
+
+  FILE NAME : D:\software install\IAR430\430\lib\clib\cl430xlsf.r43
+  LIBRARY MODULE, NAME : ?_exit
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EE3E, align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _exit                   EE3E            exit (?clibexit)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EE3E - EE41 (0x4 bytes), align: 1
+  Segment part 6.             Intra module refs:   _exit
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?clibexit
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EE42 - EE45 (0x4 bytes), align: 1
+  Segment part 2.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           exit                    EE42            Segment part 26 (?cstart)
+               calls direct
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?__exit
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EE4A - EE4D (0x4 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __exit                  EE4A            Segment part 6 (?_exit)
+                                                   _exit (?_exit)
+           ?C_EXIT                 EE4A 
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?cstart
+
+  SEGMENTS IN THE MODULE
+  ======================
+CSTACK
+  Relative segment, address: 2780, align: 1
+  Segment part 1.
+    -------------------------------------------------------------------------
+DATA16_Z
+  Relative segment, address: 20CE, align: 1
+  Segment part 2.
+    -------------------------------------------------------------------------
+DATA16_I
+  Relative segment, address: 2014, align: 1
+  Segment part 3.
+    -------------------------------------------------------------------------
+DATA16_ID
+  Relative segment, address: D496, align: 1
+  Segment part 4.
+    -------------------------------------------------------------------------
+CODE_I
+  Relative segment, address: 210C, align: 1
+  Segment part 5.
+    -------------------------------------------------------------------------
+CODE_ID
+  Relative segment, address: D5B0, align: 1
+  Segment part 6.
+    -------------------------------------------------------------------------
+DATA20_Z
+  Relative segment, address: 210C, align: 1
+  Segment part 7.
+    -------------------------------------------------------------------------
+DATA20_I
+  Relative segment, address: 210C, align: 1
+  Segment part 8.
+    -------------------------------------------------------------------------
+DATA20_ID
+  Relative segment, address: D496, align: 1
+  Segment part 9.
+    -------------------------------------------------------------------------
+DATA20_C
+  Relative segment, address: D496, align: 1
+  Segment part 10.
+    -------------------------------------------------------------------------
+DATA20_N
+  Relative segment, address: 210C, align: 1
+  Segment part 12.
+    -------------------------------------------------------------------------
+CSTART
+  Relative segment, address: D496 - D499 (0x4 bytes), align: 1
+  Segment part 15.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __program_start         D496            ?reset_vector (?reset_vector)
+                                                   Absolute parts (?ABS_ENTRY_MOD)
+           ?cstart_begin           D496 
+    -------------------------------------------------------------------------
+CSTART
+  Relative segment, address: D49A - D4A5 (0xc bytes), align: 1
+  Segment part 19.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?cstart_init_zero       D49A            ConfigAndSaved (eeprom)
+                                                   GainCal_1 (main)
+                                                   GainCal_2 (main)
+                                                   GainCal_3 (main)
+                                                   GainCal_4 (main)
+                                                   IntStatus (utilities)
+                                                   IntsDisableCount (utilities)
+                                                   OffsetCalibrateCount_1 (ADS1220)
+                                                   OffsetCalibrateCount_2 (ADS1220)
+                                                   OffsetCalibrateCount_3 (ADS1220)
+                                                   OffsetCalibrateCount_4 (ADS1220)
+                                                   OffsetCalibrateData_1 (ADS1220)
+                                                   OffsetCalibrateData_2 (ADS1220)
+                                                   OffsetCalibrateData_3 (ADS1220)
+                                                   OffsetCalibrateData_4 (ADS1220)
+                                                   OffsetCalibrateValue_1 (ADS1220)
+                                                   OffsetCalibrateValue_2 (ADS1220)
+                                                   OffsetCalibrateValue_3 (ADS1220)
+                                                   OffsetCalibrateValue_4 (ADS1220)
+                                                   PgaGainLevel_1 (ADS1220)
+                                                   PgaGainLevel_2 (ADS1220)
+                                                   PgaGainLevel_3 (ADS1220)
+                                                   PgaGainLevel_4 (ADS1220)
+                                                   RcvData (ADS1220)
+                                                   ReadConversionData_1 (main)
+                                                   ReadConversionData_2 (main)
+                                                   ReadConversionData_3 (main)
+                                                   ReadConversionData_4 (main)
+                                                   avgCount_1 (main)
+                                                   avgCount_2 (main)
+                                                   avgCount_3 (main)
+                                                   avgCount_4 (main)
+                                                   avgRaw_1 (main)
+                                                   avgRaw_2 (main)
+                                                   avgRaw_3 (main)
+                                                   avgRaw_4 (main)
+                                                   avgTemp_1 (main)
+                                                   avgTemp_2 (main)
+                                                   avgTemp_3 (main)
+                                                   avgTemp_4 (main)
+                                                   calibrateCount (main)
+                                                   code_1 (main)
+                                                   code_2 (main)
+                                                   code_3 (main)
+                                                   code_4 (main)
+                                                   interpolateTemperatureValue::interimValue (RTD_Math_1)
+                                                   interpolateTemperatureValue::r_value (RTD_Math_1)
+                                                   interpolateTemperatureValue::targetValue (RTD_Math_1)
+                                                   rawData_1 (ADS1220)
+                                                   rawData_2 (ADS1220)
+                                                   rawData_3 (ADS1220)
+                                                   rawData_4 (ADS1220)
+                                                   rx_buf (spi_slave)
+                                                   rx_index (spi_slave)
+                                                   send_result (spi_slave)
+                                                   tempData_1 (main)
+                                                   tempData_2 (main)
+                                                   tempData_3 (main)
+                                                   tempData_4 (main)
+                                                   temperature_1 (main)
+                                                   temperature_2 (main)
+                                                   temperature_3 (main)
+                                                   temperature_4 (main)
+                                                   tx_index (spi_slave)
+    -------------------------------------------------------------------------
+CSTART
+  Relative segment, address: D4A6 - D4B5 (0x10 bytes), align: 1
+  Segment part 20.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?cstart_init_copy       D4A6            adc_result (main)
+    -------------------------------------------------------------------------
+CSTART
+  Relative segment, address: D4B6 - D4BD (0x8 bytes), align: 1
+  Segment part 26.            Intra module refs:   Segment part 15
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?cstart_call_main       D4B6 
+           ?cstart_end             D4BE 
+    -------------------------------------------------------------------------
+CODE_ID
+  Relative segment, address: D5B0, align: 1
+  Segment part 27.            Intra module refs:   Segment part 5
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?reset_vector
+
+  SEGMENTS IN THE MODULE
+  ======================
+RESET
+  Relative segment, address: FFFE - FFFF (0x2 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?reset_vector           FFFE            Segment part 15 (?cstart)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?Cast32f32i
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: E8E6 - E8F9 (0x14 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Cast32sto32f           E8E6            ADS1220_Get_Conversion_Data_Calibrated (ADS1220)
+                                                   calculateRValue (RTD_Math_1)
+                                                   interpolateTemperatureValue (RTD_Math_1)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E8FA - E977 (0x7e bytes), align: 1
+  Segment part 1.             Intra module refs:   _Cast32sto32f
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Cast32uto32f           E8FA 
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : _Cast32fto32s
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EC58 - EC89 (0x32 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Cast32fto32s           EC58            ADS1220_Get_Conversion_Data_Calibrated (ADS1220)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?FLT_Extract
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EAE2 - EB2D (0x4c bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?FLT_Extract            EAE2            _Cast32fto32s (_Cast32fto32s)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?FLT_LT
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EA42 - EA93 (0x52 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?FLT_LT                 EA42            findInterpolationIndex (RTD_Math_1)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : _Mul32f
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: E3F4 - E503 (0x110 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Mul32f                 E3F4            ADS1220_Get_Conversion_Data_Calibrated (ADS1220)
+                                                   calculateRValue (RTD_Math_1)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : _Div32f
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: E2C4 - E3F3 (0x130 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Div32f                 E2C4            calculateRValue (RTD_Math_1)
+                                                   interpolateTemperatureValue (RTD_Math_1)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : _Add32f
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: E160 - E163 (0x4 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Sub32f                 E160            interpolateTemperatureValue (RTD_Math_1)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: E164 - E2C3 (0x160 bytes), align: 1
+  Segment part 1.             Intra module refs:   _Sub32f
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           _Add32f                 E164            interpolateTemperatureValue (RTD_Math_1)
+                                                   rtd_process_1 (main)
+                                                   rtd_process_2 (main)
+                                                   rtd_process_3 (main)
+                                                   rtd_process_4 (main)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?DivMod32u
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EC8A - ECB9 (0x30 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?DivMod32u              EC8A            ?DivMod32s (?DivMod32s)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?DivMod32s
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EB70 - EBAF (0x40 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?DivMod32s              EB70            ADS1220_Offset_Calibrate_Data (ADS1220)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?memcpy
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EDC2 - EDD9 (0x18 bytes), align: 1
+  Segment part 2.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           memcpy                  EDC2            GetSavedData (eeprom)
+                                                   __data16_memcpy (?memzero)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?CopyMemoryWords
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EE1E - EE2D (0x10 bytes), align: 1
+  Segment part 0.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           ?CopyMemoryWords        EE1E            PORT2_ISR (gpio)
+                                                   main (main)
+
+    -------------------------------------------------------------------------
+  LIBRARY MODULE, NAME : ?memzero
+
+  SEGMENTS IN THE MODULE
+  ======================
+<CODE> 1 (was CODE)
+  Relative segment, address: EE2E - EE3D (0x10 bytes), align: 1
+  Segment part 2.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __data16_memzero        EE2E            ?cstart_init_zero (?cstart)
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: EE46 - EE49 (0x4 bytes), align: 1
+  Segment part 3.
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           __data16_memcpy         EE46            ?cstart_init_copy (?cstart)
+               calls direct
+
+
+
+                ****************************************
+                *                                      *
+                *             STACK USAGE              *
+                *                                      *
+                ****************************************
+
+  Call Graph Root Category  Max Use  Total Use
+  ------------------------  -------  ---------
+  interrupt                     16         34
+  Program entry                110        110
+
+
+Program entry
+  "__program_start": 0x0000d496
+
+  Maximum call chain                              110  bytes
+
+    "__program_start"                               0
+    "main"                                         52
+    "Setup_ADS1220"                                24
+    "ADS1220_Write_Regs"                           14
+    "USCIB0_SPI_write"                             16
+    "IO_SPI_read_write_data"                        4
+
+interrupt
+  "TIMER1_A0_ISR": 0x0000d4be
+
+  Maximum call chain                                4  bytes
+
+    "TIMER1_A0_ISR"                                 4
+
+interrupt
+  "TIMER1_A1_ISR": 0x0000d4cc
+
+  Maximum call chain                                6  bytes
+
+    "TIMER1_A1_ISR"                                 6
+
+interrupt
+  "PORT2_ISR": 0x0000d4f0
+
+  Maximum call chain                               16  bytes
+
+    "PORT2_ISR"                                    10
+    "?CopyMemoryWords"                              6
+
+interrupt
+  "SPI0_slave": 0x0000d558
+
+  Maximum call chain                                8  bytes
+
+    "SPI0_slave"                                    8
+
+
+
+
+                ****************************************
+                *                                      *
+                *      SEGMENTS IN ADDRESS ORDER       *
+                *                                      *
+                ****************************************
+
+
+SEGMENT              SPACE    START ADDRESS   END ADDRESS     SIZE  TYPE  ALIGN
+=======              =====    =============   ===========     ====  ====  =====
+DATA16_AN                              0130 - 0131               2   rel    0
+                                       0160 - 0161               2 
+                                       0180 - 018B               C 
+                                       018E - 018F               2 
+                                       01A0 - 01A1               2 
+                                       01CC - 01CD               2 
+                                       0200 - 0207               8 
+                                       0218 - 021D               6 
+                                       0220 - 0227               8 
+                                       0242 - 0245               4 
+                                       024A - 024B               2 
+                                       0262 - 0265               4 
+                                       0340 - 0345               6 
+                                       0350 - 0355               6 
+                                       036E - 036F               2 
+                                       0540 - 0541               2 
+                                       054C - 054F               4 
+                                       056A - 056F               6 
+DATA16_I                               2000 - 2013              14   rel    1
+DATA16_Z                               2014 - 210A              F7   rel    1
+DATA20_I                                  210C                       rel    1
+DATA20_Z                                  210C                       rel    1
+DATA20_N                                  210C                       rel    1
+CODE_I                                    210C                       rel    1
+CSTACK                                 2780 - 27FF              80   rel    1
+DATA16_C                               C400 - D481            1082   rel    1
+DATA16_ID                              D482 - D495              14   rel    1
+DATA20_ID                                 D496                       rel    1
+DATA20_C                                  D496                       rel    1
+CSTART                                 D496 - D4BD              28   rel    1
+ISR_CODE                               D4BE - D5AF              F2   rel    1
+CODE_ID                                   D5B0                       rel    1
+<CODE> 1                               D5B0 - EE4D            189E   rel    1
+INTVEC                                 FF88 - FFF5              6E   com    1
+RESET                                  FFFE - FFFF               2   rel    1
+
+                ****************************************
+                *                                      *
+                *        END OF CROSS REFERENCE        *
+                *                                      *
+                ****************************************
+
+ 6 696 bytes of CODE  memory
+   395 bytes of DATA  memory (+ 80 absolute )
+ 4 246 bytes of CONST memory
+
+Errors: none
+Warnings: none
+

@@ -1,0 +1,622 @@
+Dependencies for Project 'Template', Target 'Project_Name': (DO NOT MODIFY !)
+F (.\Libraries\CMSIS\DeviceSupport\startup\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (.\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.c)(0x4D783CB0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (.\uCOS-II\Source\os_core.c)(0x57D4D6C9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_core.o --omf_browse .\objects\os_core.crf --depend .\objects\os_core.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_flag.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_flag.o --omf_browse .\objects\os_flag.crf --depend .\objects\os_flag.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_mbox.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_mbox.o --omf_browse .\objects\os_mbox.crf --depend .\objects\os_mbox.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_mem.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_mem.o --omf_browse .\objects\os_mem.crf --depend .\objects\os_mem.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_mutex.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_mutex.o --omf_browse .\objects\os_mutex.crf --depend .\objects\os_mutex.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_q.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_q.o --omf_browse .\objects\os_q.crf --depend .\objects\os_q.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_sem.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_sem.o --omf_browse .\objects\os_sem.crf --depend .\objects\os_sem.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_task.c)(0x57CE3F53)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_task.o --omf_browse .\objects\os_task.crf --depend .\objects\os_task.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_time.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_time.o --omf_browse .\objects\os_time.crf --depend .\objects\os_time.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Source\os_tmr.c)(0x534F8FFC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_tmr.o --omf_browse .\objects\os_tmr.crf --depend .\objects\os_tmr.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\uCOS-II\Ports\os_cpu_a.asm)(0x5771F642)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_HD SETA 1"--list .\listings\os_cpu_a.lst --xref -o .\objects\os_cpu_a.o --depend .\objects\os_cpu_a.d)
+F (.\uCOS-II\Ports\os_cpu_c.c)(0x5771F642)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\os_cpu_c.o --omf_browse .\objects\os_cpu_c.crf --depend .\objects\os_cpu_c.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\Bsp\bsp.c)(0x5771F642)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\bsp.o --omf_browse .\objects\bsp.crf --depend .\objects\bsp.d)
+I (Bsp\bsp.h)(0x5771F642)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (.\App\main.c)(0x5771F642)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\App\app_cfg.c)(0x5771F641)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\app_cfg.o --omf_browse .\objects\app_cfg.crf --depend .\objects\app_cfg.d)
+I (App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (App\app_task.h)(0x5771F642)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+I (.\Bsp\bsp.h)(0x5771F642)
+F (.\App\app_task.c)(0x5771F641)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\app_task.o --omf_browse .\objects\app_task.crf --depend .\objects\app_task.d)
+I (App\app_task.h)(0x5771F642)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+I (.\Bsp\bsp.h)(0x5771F642)
+F (.\App\stm32f10x_it.c)(0x5771F642)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\App -I .\Bsp -I .\Libraries\CMSIS\CoreSupport -I .\Libraries\CMSIS\DeviceSupport -I .\Libraries\CMSIS\DeviceSupport\startup -I .\Libraries\STM32F10x_StdPeriph_Driver\inc -I .\Libraries\STM32F10x_StdPeriph_Driver\src -I .\uCOS-II\Ports -I .\uCOS-II\Source-I.\RTE\_Project_Name-I"D:\software install\Keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\software install\Keil\ARM\CMSIS\Include"-D__UVISION_VERSION="524" -DSTM32F10X_HD-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (App\stm32f10x_it.h)(0x5771F642)
+I (.\Libraries\CMSIS\DeviceSupport\stm32f10x.h)(0x5771F642)
+I (.\Libraries\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
+I (D:\software install\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (.\Libraries\CMSIS\DeviceSupport\system_stm32f10x.h)(0x4D783CAA)
+I (.\App\stm32f10x_conf.h)(0x5771F642)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (.\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (.\uCOS-II\Source\ucos_ii.h)(0x57CE3F5E)
+I (.\App\app_cfg.h)(0x57CE3F53)
+I (.\uCOS-II\Ports\os_cpu.h)(0x5771F642)
+I (.\App\os_cfg.h)(0x57CE3F5E)
+F (.\Doc\ReadMe.txt)(0x5771F642)()

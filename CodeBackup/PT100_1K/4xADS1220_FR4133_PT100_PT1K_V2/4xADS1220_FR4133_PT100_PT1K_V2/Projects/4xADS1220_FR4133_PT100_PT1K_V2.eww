@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\4xADS1220_FR4133_PT100_PT1K_V2.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2520-LinkTo</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2520-LinkListen</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

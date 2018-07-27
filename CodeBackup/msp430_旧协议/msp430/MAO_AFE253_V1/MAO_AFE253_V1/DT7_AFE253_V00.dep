@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3756046875</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\_main.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DT7_AFE253_V00.pbd</file>
+            <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
+            <file>$PROJ_DIR$\Debug\Exe\DT7_AFE253_V00.ulp</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl430f.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\flashwrite.r43</file>
+            <file>$PROJ_DIR$\sd24.C</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\flashwrite.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Exe\DT7_AFE253_V00.txt</file>
+            <file>$PROJ_DIR$\Utilities.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+            <file>$PROJ_DIR$\utilities.c</file>
+            <file>$PROJ_DIR$\flashwrite.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\_main.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430afe253.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\_main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\sd24.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\sd24.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\_main.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\flashwrite.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\sd24.r43</file>
+            <file>$PROJ_DIR$\Debug\Exe\DT7_AFE253_V00.d43</file>
+            <file>$PROJ_DIR$\type_def.h</file>
+            <file>$PROJ_DIR$\sd24.h</file>
+            <file>$PROJ_DIR$\flashwrite.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.r43</file>
+            <file>$PROJ_DIR$\device.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\MSP430afe253.h</file>
+            <file>$PROJ_DIR$\spi.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\_main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 26 3 23 10 1 24 2 38 40 4 39 33 34 35 13 36 17 16 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3 35 23 34 16 4 38 33 13 41 24 40 17 26 10 2 1 39 36</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\sd24.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38 40 4 39 33 34 13 3 36 23 10 1 24 2 17 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4 3 16 24 34 33 36 13 40 38 39 17 23 10 2 1</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\utilities.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38 40 4 39 33 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33 4 16 40 38 39</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\flashwrite.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 11</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38 40 4 39 33 35</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4 39 40 38 33 35</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 32 15</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\DT7_AFE253_V00.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 21 6 29 11 31 37 9</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs>
+            <file>$PROJ_DIR$\_main.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl430f.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\sd24.C</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+            <file>$PROJ_DIR$\Utilities.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+            <file>$PROJ_DIR$\utilities.c</file>
+            <file>$PROJ_DIR$\flashwrite.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT24_32.C</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\guimenu.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\zlgconfig.h</file>
+            <file>$PROJ_DIR$\Release\Obj\sd24.pbi</file>
+            <file>$PROJ_DIR$\putchar.c</file>
+            <file>$PROJ_DIR$\Release\Obj\JL12864.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\_main.r43</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\guihz.c</file>
+            <file>$PROJ_DIR$\Release\Obj\FONT24_32.pbi</file>
+            <file>$TOOLKIT_DIR$\config\lnk430AFE253.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\guimenu.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\key.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\font5_7.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\loadbit.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\windows.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\putchar.r43</file>
+            <file>$PROJ_DIR$\MSP430AFE_sd24_01.c</file>
+            <file>$PROJ_DIR$\Release\Obj\utilities.r43</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\loadbit.c</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\ASIIC.c</file>
+            <file>$PROJ_DIR$\Release\Obj\_main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\font5_7.c</file>
+            <file>$PROJ_DIR$\Release\Obj\font5_7.pbi</file>
+            <file>$PROJ_DIR$\key.c</file>
+            <file>$PROJ_DIR$\Release\Obj\flashwrite.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\FONT8_8.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\windows.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Release\Exe\maoTestAFE253.txt</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT5_7.H</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT_MACRO.H</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\type_def.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\GUI_StockC.C</file>
+            <file>$PROJ_DIR$\Release\Obj\JL12864.pbi</file>
+            <file>$PROJ_DIR$\Release\Exe\DT7_AFE253_V00.ulp</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\guihz.h</file>
+            <file>$PROJ_DIR$\sd24.h</file>
+            <file>$PROJ_DIR$\Release\Obj\loadbit.r43</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\lcmdrv.h</file>
+            <file>$PROJ_DIR$\flashwrite.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\guimenu.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\GUI_STOCKC.H</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\MSP430AFE_sd24_01.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\maoTestAFE253.pbd</file>
+            <file>$PROJ_DIR$\device.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$PROJ_DIR$\Release\Obj\guihz.pbi</file>
+            <file>$PROJ_DIR$\putchar.h</file>
+            <file>$TOOLKIT_DIR$\inc\MSP430afe253.h</file>
+            <file>$PROJ_DIR$\spi.h</file>
+            <file>$PROJ_DIR$\Release\Obj\lcmdrv.r43</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\WINDOWS.H</file>
+            <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\lcmdrv.c</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\GUI_BASIC.C</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\GUI_CONFIG.H</file>
+            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+            <file>$PROJ_DIR$\Release\Obj\GUI_BASIC.r43</file>
+            <file>$PROJ_DIR$\zlggui\lcddrv\JL12864.c</file>
+            <file>$PROJ_DIR$\Release\Obj\FONT8_8.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\guihz.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\key.pbi</file>
+            <file>$PROJ_DIR$\zlggui\lcddrv\JL12864.h</file>
+            <file>$PROJ_DIR$\Release\Obj\flashwrite.r43</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT24_32.H</file>
+            <file>$PROJ_DIR$\Release\Obj\MSP430AFE_sd24_01.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\putchar.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\GUI_StockC.r43</file>
+            <file>$PROJ_DIR$\key.h</file>
+            <file>$PROJ_DIR$\Release\Obj\sd24.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\lcmdrv.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\FONT24_32.r43</file>
+            <file>$PROJ_DIR$\Release\Exe\DT7_AFE253_V00.txt</file>
+            <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\utilities.pbi</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\hzk.c</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\windows.c</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT8_8.C</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\GUI_BASIC.H</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\Loadbit.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+            <file>$PROJ_DIR$\Release\Obj\guimenu.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\GUI_StockC.pbi</file>
+            <file>$PROJ_DIR$\zlggui\zlggui\FONT8_8.H</file>
+            <file>$PROJ_DIR$\Release\Obj\GUI_BASIC.pbi</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\_main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 52 55 70 74 9 67</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 52 55 70 74 9 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\sd24.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 52 70 74 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 52 70 74 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\utilities.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\flashwrite.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 55</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\FONT24_32.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\putchar.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 65 35 3 13 6 98 1 46 2 42</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 65 35 3 13 6 1 46 2 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\guihz.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 47 51 93 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47 51 93 33</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\MSP430AFE_sd24_01.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 80 52 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 80 52 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\loadbit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 35 3 13 6 98 1 46 2 42 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 35 3 13 6 1 46 2 42 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\font5_7.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\key.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 66 4 63 47 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62 66 4 63 47 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\maoTestAFE253.txt</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 23 91 89 40 75 85 19 20 81 26 78 24 25 68 53 29 87 31 28 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\GUI_StockC.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\guimenu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Obj\maoTestAFE253.pbd</name>
+            <inputs>
+                <tool>
+                    <name>BILINK</name>
+                    <file> 22 77 102 100 49 34 39 37 64 99 79 88 27 84 17 92 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\lcmdrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\GUI_BASIC.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 8 3 57 13 6 98 1 46 2 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15 8 3 57 13 6 1 46 2 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\lcddrv\JL12864.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 80 62 66 4 63 47 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 62 66 4 63 47 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\DT7_AFE253_V00.txt</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 23 91 20 81 87 31 5</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\windows.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\zlggui\zlggui\FONT8_8.C</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 54 45 73 96 58 44 101 82 51 97 69 15</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

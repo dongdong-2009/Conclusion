@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>maoTestAFE253/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>239</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>885</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly><Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4472-11628</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>maoTestAFE253</ExpandedNode><ExpandedNode>maoTestAFE253/LCD</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-18964-13813</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-1148-15579</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-1128-23972</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zlggui\zlggui\GUI_StockC.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>689</SelStart><SelEnd>689</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zlggui\zlggui\GUI_BASIC.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>439</SelStart><SelEnd>439</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zlggui\zlggui\guimenu.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>5652</SelStart><SelEnd>5652</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\utilities.c</Filename><XPos>0</XPos><YPos>119</YPos><SelStart>2208</SelStart><SelEnd>2208</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\device.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>459</SelStart><SelEnd>459</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\key.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sd24.C</Filename><XPos>0</XPos><YPos>94</YPos><SelStart>3529</SelStart><SelEnd>3529</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\_main.c</Filename><XPos>0</XPos><YPos>179</YPos><SelStart>5344</SelStart><SelEnd>5344</SelEnd></Tab><ActiveTab>7</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0EW430V5301\430\inc\MSP430afe253.h</Filename><XPos>0</XPos><YPos>281</YPos><SelStart>13222</SelStart><SelEnd>13222</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\type_def.h</Filename><XPos>0</XPos><YPos>112</YPos><SelStart>1144</SelStart><SelEnd>1144</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zlggui\lcddrv\JL12864.c</Filename><XPos>0</XPos><YPos>138</YPos><SelStart>6934</SelStart><SelEnd>6934</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02d91ef0><key>iaridepm.enu1</key></Toolbar-02d91ef0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>545</Bottom><Right>313</Right><x>-2</x><y>-2</y><xscreen>619</xscreen><yscreen>345</yscreen><sizeHorzCX>391277</sizeHorzCX><sizeHorzCY>431250</sizeHorzCY><sizeVertCX>199115</sizeVertCX><sizeVertCY>683750</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>210</Bottom><Right>1584</Right><x>-2</x><y>-2</y><xscreen>1586</xscreen><yscreen>212</yscreen><sizeHorzCX>1002528</sizeHorzCX><sizeHorzCY>265000</sizeHorzCY><sizeVertCX>391277</sizeVertCX><sizeVertCY>431250</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

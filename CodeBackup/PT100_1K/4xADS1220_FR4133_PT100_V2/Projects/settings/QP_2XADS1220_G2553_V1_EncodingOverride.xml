@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_G2553_V1\QP_2XADS1220_G2553_V1\bsp\ADS1220.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_G2553_V1\QP_2XADS1220_G2553_V1\bsp\api.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\Projects\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\middleware\drivers\drv_key.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\middleware\utilities.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\qpn\qepn.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\qpn\qfn.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\_MDoc\_myDoc\___DongMu\2014\10su\FW_MAO_V1\2xADS1220__RTD_V1\QP_2XADS1220_G2553_V1\qpn\qpn_port.h</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+

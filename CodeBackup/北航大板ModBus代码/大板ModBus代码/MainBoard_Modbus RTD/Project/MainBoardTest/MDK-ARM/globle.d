@@ -1,0 +1,25 @@
+.\globle.o: ..\Globle.c
+.\globle.o: ..\Globle.h
+.\globle.o: ..\stm32f10x_it.h
+.\globle.o: ..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\globle.o: ..\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\globle.o: D:\software install\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\globle.o: ..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\globle.o: ..\stm32f10x_conf.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\globle.o: ..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\globle.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\globle.o: ..\rtd.h
+.\globle.o: ..\ads1115.h
+.\globle.o: ..\delay.h
+.\globle.o: ..\DAC8554.h
+.\globle.o: ..\MuxCfg.h
+.\globle.o: ..\Dio.h
+.\globle.o: ..\Pwm.h

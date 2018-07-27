@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>2332304500</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\bsp\spi_slave.c</file>
+            <file>$PROJ_DIR$\..\middleware\utilities.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADS1220.__cstat.et</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\io_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTD_Math_1.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_leds.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi_slave.__cstat.et</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_board.c</file>
+            <file>$PROJ_DIR$\..\bsp\eeprom.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_board.__cstat.et</file>
+            <file>$PROJ_DIR$\..\bsp\ADS1220.c</file>
+            <file>$PROJ_DIR$\..\bsp\RTD_Math_1.c</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_leds.c</file>
+            <file>$PROJ_DIR$\..\bsp\gpio.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.txt</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430fr4133.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.__cstat.et</file>
+            <file>$PROJ_DIR$\..\bsp\delay.h</file>
+            <file>$PROJ_DIR$\..\bsp\delay.c</file>
+            <file>$PROJ_DIR$\..\bsp\io_spi.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+            <file>$PROJ_DIR$\..\bsp\Rtd_Math.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\time.h</file>
+            <file>$PROJ_DIR$\..\bsp\eeprom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+            <file>$PROJ_DIR$\..\bsp\TempTransmitter.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\utilities.pbi</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_config.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_board.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_board.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.d43</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_generic_leds.h</file>
+            <file>$PROJ_DIR$\..\middleware\Utilities.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADS1220.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_leds.r43</file>
+            <file>$PROJ_DIR$\..\bsp\api.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\io_spi.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl430xlsf.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi_slave.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi_slave.r43</file>
+            <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.ulp</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_led_defs.h</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_board_defs.h</file>
+            <file>$PROJ_DIR$\..\bsp\spi_slave.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_leds.pbi</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_macros.h</file>
+            <file>$PROJ_DIR$\..\bsp\app.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\eeprom.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTD_Math_1.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTD_Math_1.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADS1220.pbi</file>
+            <file>$PROJ_DIR$\..\bsp\gpio.h</file>
+            <file>$PROJ_DIR$\..\bsp\bsp_leds.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\List\4xADS1220_FR4133_PT100_PT1K_V2.map</file>
+            <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+            <file>$PROJ_DIR$\..\bsp\io_spi.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430fr4133.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\io_spi.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\4xADS1220_FR4133_PT100_PT1K_V2.pbd</file>
+            <file>$PROJ_DIR$\..\bsp\ADS1220.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\spi_slave.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 20 59 50 61 85 37 29 55 30 58 80 81 56 67 82 79 36 33 42 35 76 28 60 75 65 32 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\middleware\utilities.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 41 82 27 29 85 55 30 80 81 56 70 45 64 61 59 20 37 79 36 33 42 35 76 28 60 75 65 32 47 66 62 26 67 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41 85 82 27 61 70 59 20 45 64 55 29 30 58 80 81 56 37 79 36 33 42 35 76 28 60 75 65 32 47 66 62 26 67 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\bsp_board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 29 85 50 55 30 80 81 56 37 59 70 61 20 67 82 79 36 33 42 35 76 28 60 75 65 32 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\eeprom.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81 30 55 80 56 50 29 58 85 59 70 61 20 37 82 79 36 33 42 35 76 28 60 75 65 32 27 62 26 45 47 66 86 67 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\ADS1220.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 3</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41 58 82 27 29 85 55 30 80 81 70 45 64 61 59 20 56 37 79 36 33 42 35 76 28 60 75 65 32 47 66 62 26 67 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\RTD_Math_1.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59 70 20 50 61 85 37 29 55 30 58 80 81 56 67 82 79 36 33 42 35 76 28 60 75 65 32 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\bsp_leds.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 20 59 50 61 85 37 29 55 30 58 80 81 56 67 82 79 36 33 42 35 76 28 60 75 65 32 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75 79 35 56 50 33 28 32 37 59 29 36 42 76 60 65 67 82 55 70 61 30 58 85 80 20 81 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\delay.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 55 81 56 47 20 45 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79 67 75 37 35 82 29 45 56 33 28 32 50 59 55 20 81 36 42 76 60 65 27 62 26 58 70 47 61 30 85 80 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\bsp\io_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 55 81 56 47 79 27 70 82 37 62 67 66 26 36 29 50 33 61 42 30 35 59 76 58 41 64 28 85 60 80 75 20 65 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76 36 65 50 42 60 37 59 29 79 33 35 28 75 32 56 67 82 55 70 61 30 58 85 80 20 81 27 62 26 45 47 66 64 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\4xADS1220_FR4133_PT100_PT1K_V2.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 78 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 18 43 38 44 24 68 49 83 25 69 54 23 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 40 78 17</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+</project>
